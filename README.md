@@ -5,7 +5,8 @@ A LiveProject from Manning Publishers. The project is broken into five parts.
 
 1. Extracting City and Country Information from News Headlines
 
-finished assignment: 
+finished assignment (see): Discovering_Disease_Outbreaks_in_the_News_Part_1.ipynb (above) or to run in nbviewer go to -
+https://nbviewer.jupyter.org/github/daveking63/Discovering_Disease_Outbreaks_in_News_Headlines/blob/master/Discovering_Disease_Outbreaks_in_the_News_Part_1.ipynb 
 
 2. Finding Geographic Locations of Headlines
 
