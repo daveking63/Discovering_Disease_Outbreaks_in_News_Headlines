@@ -5,6 +5,8 @@ A LiveProject from Manning Publishers. The project is broken into five parts.
 
 1. Extracting City and Country Information from News Headlines
 
+finished assignment: 
+
 2. Finding Geographic Locations of Headlines
 
 3. Clustering Headlines Based on Location
