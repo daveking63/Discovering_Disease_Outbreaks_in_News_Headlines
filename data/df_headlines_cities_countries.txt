@@ -1,0 +1,612 @@
+Headline|City|Country
+Zika Outbreak Hits Miami|Miami|NaN
+Could Zika Reach New York City?|New York City|NaN
+First Case of Zika in Miami Beach|Miami Beach|NaN
+Mystery Virus Spreads in Recife, Brazil|Recife|Brazil
+Dallas man comes down with case of Zika|Dallas|NaN
+Trinidad confirms first Zika case|Trinidad|NaN
+Zika Concerns are Spreading in Houston|Houston|NaN
+Geneve Scientists Battle to Find Cure|Geneve|NaN
+The CDC in Atlanta is Growing Worried|Atlanta|NaN
+Zika Infested Monkeys in Sao Paulo|Sao Paulo|NaN
+Brownsville teen contracts Zika virus|Brownsville|NaN
+Mosquito control efforts in St. Louis take new tactics with Zika threat|St. Louis|NaN
+San Juan reports 1st U.S. Zika-related death amid outbreak|San Juan|NaN
+Flu outbreak in Galveston, Texas|Galveston|NaN
+Zika alert â€“ Manila now threatened|Manila|NaN
+Zika afflicts 7 in Iloilo City|Iloilo|NaN
+New Los Angeles Hairstyle goes Viral|Los Angeles|NaN
+Orlando volunteers aid Zika research|Orlando|NaN
+Chicago's First Zika Case Confirmed|Chicago|NaN
+Tampa Bay Area Zika Case Count Climbs|Tampa|NaN
+Bad Water Leads to Sickness in Flint, Michigan|Flint|NaN
+Baltimore plans for Zika virus|Baltimore|NaN
+London Health Unit Tracks Mad Cow Disease|London|NaN
+Zika cases in Vietnam's Ho Chi Minh City surge|Ho Chi Minh City|Vietnam
+Philadelphia experts track pandemic|Philadelphia|NaN
+Flu season hits Boston|Boston|NaN
+Scientists in Paris to look for answers|Paris|NaN
+Key Zika Findings in San Diego Institute|San Diego|NaN
+Thailand-Zika Virus in Bangkok|Bangkok|Thailand
+Beijing team cracks Zika secret|Beijing|NaN
+Zika spreading to Salvador|Salvador|NaN
+Kuala Lumpur is Hit By Zika Threat|Kuala Lumpur|NaN
+First Zika case confirmed in Yangon|Yangon|NaN
+Tallahassee Doctors Discuss Zika Virus|Tallahassee|NaN
+Zika Virus Reaches San Francisco|San Francisco|NaN
+New Vaccine on Trial in Bethesda District|Bethesda|NaN
+Townsville Zika tests inconclusive|Townsville|NaN
+Mandaluyong City under Siege by Virus|Mandaluyong City|NaN
+Hepatitis E re-emerges in Santa Rosa|Santa Rosa|NaN
+Zika worries in San Salvador|San Salvador|NaN
+Zika virus reported in Cleveland|Cleveland|NaN
+More Zika patients reported in Austin|Austin|NaN
+Zika outbreak in Piracicaba, Brazil|Piracicaba|Brazil
+Lima tries to address Zika Concerns|Lima|NaN
+More people in Toronto are infected with Hepatitis E every year|Toronto|NaN
+18 new Zika Cases in Bogota|Bogota|NaN
+Brisbane is infested with Meningitis|Brisbane|NaN
+Cholera outbreak in Dakar|Dakar|NaN
+Zika Virus Transmission Detected in Havana|Havana|NaN
+Zika symtomps spotted in Key West|Key West|NaN
+Case of Measles Reported in Vancouver|Vancouver|NaN
+Seattle scientists get $500,000 grant to pursue Zika vaccine New 7:50 pm|Seattle|NaN
+Nashville takes precautions against Zika|Nashville|NaN
+Saint Croix under Zika threat|Saint Croix|NaN
+Fort Collins Encounters Severe Symptoms of Gonorrhea|Fort Collins|NaN
+Zika surfaces in Klang, Malaysia|Klang|Malaysia
+Rumors about Meningitis spreading in Guatemala City have been refuted|Guatemala City|Guatemala
+Madison lab developing vaccine against Zika virus [The Wisconsin State Journal]|Madison|NaN
+New Zika Case Confirmed in Sarasota County|Sarasota|NaN
+Lower Hospitalization in Entebbe after Rabies Vaccine becomes Mandatory|Entebbe|NaN
+Carnival under threat in Rio De Janeiro due to Zika outbreak|Rio de Janeiro|NaN
+Second Zika Paitient in Brasilia|Brasilia|NaN
+Jacksonville man hit by Zika|Jacksonville|NaN
+Schools in Shenzhen Closed Due to Malaria Outbreak|Shenzhen|NaN
+Caracas patient dies|Caracas|NaN
+More Quezon City Zika Transmissions|Quezon City|NaN
+Schools in Sydney Closed Due to Respiratory Syncytial Virus Outbreak|Sydney|NaN
+Mumbai's Health Minister warns of more Zika cases|Mumbai|NaN
+Pune woman diagnosed with Zika|Pune|NaN
+Hospitals in Hanoi fill up with Zika patients|Hanoi|NaN
+Authorities are Worried about the Spread of Bronchitis in Silver Spring|Silver Spring|NaN
+Zika: Delhi for strict monitoring|Delhi|NaN
+Belize City under threat from Zika|Belize City|Belize
+Student sick in Campinas, Brazil|Campinas|Brazil
+More Zika cases in Soyapango|Soyapango|NaN
+Authorities are Worried about the Spread of Mad Cow Disease in Rome|Rome|NaN
+Seoul confirms 14th Zika infection|Seoul|NaN
+Hepatitis B Vaccine is now Required in Quebec|Quebec|NaN
+Zika outbreak spreads to Mexico City|Mexico City|Mexico
+Rochester authorities confirmed the spread of Dengue|Rochester|NaN
+El Paso fighting Zika|El Paso|NaN
+Visitor to Cucuta contracts Zika|Cucuta|NaN
+Zika now spreading through Jakarta|Jakarta|NaN
+Salt Lake City tests new cure for Respiratory Syncytial Virus|Salt Lake City|NaN
+Zika San Antonio Patient Speaks Out|San Antonio|NaN
+Ebola outbreak in Kampala|Kampala|NaN
+Precautionary Zika measures in Rockhampton|Rockhampton|NaN
+Zika arrives in Tegucigalpa|Tegucigalpa|NaN
+New Zika Case Confirmed in Belo Horizonte|Belo Horizonte|NaN
+Case of Hepatitis E Reported in Melbourne|Melbourne|NaN
+First Columbus Zika case|Columbus|NaN
+New medicine wipes out Tuberculosis in Taipei|Taipei|NaN
+Zika Patient in Seminole, Florida|Seminole|NaN
+Antipolo under threat from Zika Virus|Antipolo|NaN
+Spreading Zika reaches Bacoor|Bacoor|NaN
+Can Zika make it here to Vero Beach?|Vero Beach|NaN
+Zika afflicts patient in Calamba|Calamba|NaN
+Hollywood Outbreak Film Premieres|Hollywood|NaN
+Petaling Jaya man ill from Zika|Petaling Jaya|NaN
+Malaria is Spreading in Johannesburg|Johannesburg|NaN
+Authorities are Worried about the Spread of Norovirus in Buenos Aires|Buenos Aires|NaN
+Guangzhou Patient in Critical Condition after Contracting Swine Flu|Guangzhou|NaN
+Doral hit by Deadly Virus|Doral|NaN
+Tokyo Encounters Severe Symptoms of Meningitis|Tokyo|NaN
+Rabies Exposure in Hamilton|Hamilton|NaN
+Authorities are Worried about the Spread of Influenza in Savannah|Savannah|NaN
+Zika Outbreak in Hyderabad|Hyderabad|NaN
+Birmingham Residents Recieve Rabies vaccine|Birmingham|NaN
+Is Zika virus in Majuro?|Majuro|NaN
+Spreading Zika ruining Cancun fun|Cancun|NaN
+Cancun hit by Outbreak of Party Fever!|Cancun|NaN
+HIV has Arrived in Fairfax|Fairfax|NaN
+Spanish Flu Outbreak in Barcelona|Barcelona|NaN
+Santa Barbara tests new cure for Hepatitis C|Santa Barbara|NaN
+Spring break ruined by Zika in Fort Lauderdale|Fort Lauderdale|NaN
+Villavicencio under Zika threat|Villavicencio|NaN
+Two more Zika cases confirmed in Laredo|Laredo|NaN
+New Delhi Addressing Zika Concerns|New Delhi|NaN
+New Zika Case in Kota Kinabalu, Malaysia|Kota Kinabalu|Malaysia
+New medicine wipes out West Nile Virus in Ventura|Ventura|NaN
+Meningitis re-emerges in Nassau|Nassau|NaN
+Zika reaches Johor Bahru, Malaysia|Johor Bahru|Malaysia
+Nha Trang Zika Outbreak|Nha Trang|NaN
+First Zika Case in Cincinnati|Cincinnati|NaN
+Molo Cholera Spread Causing Concern|Molo|NaN
+Norovirus Exposure in Hong Kong|Hong Kong|Hong Kong
+19 new Zika Cases in Sengkang|Sengkang|NaN
+Zika cases concern Charlotte residents|Charlotte|NaN
+Batangas Tourism Takes a Hit as Virus Spreads|Batangas|NaN
+Johannesburg Patient in Critical Condition after Contracting Pneumonia|Johannesburg|NaN
+Outbreak of Zika in Bacolod City|Bacolod City|NaN
+Respiratory Syncytial Virus Keeps Spreading in Masaya|Masaya|NaN
+Spike of Pneumonia Cases in Springfield|Springfield|NaN
+More Zika patients reported in Mcallen|McAllen|NaN
+Zika case reported in Jupiter|Jupiter|NaN
+Zika virus confirmed in Westchester|Westchester|NaN
+Authorities are Worried about the Spread of Tuberculosis in Abuja|Abuja|NaN
+Rumors about Hepatitis D Spreading in San Juan Capistrano have been Refuted|San Juan Capistrano|NaN
+The Spread of Measles in Spokane has been Confirmed|Spokane|NaN
+Zika alert for Rio Grande Valley residents|Rio Grande|NaN
+Zika symptoms spotted in Colombo|Colombo|NaN
+West Nile Virus Outbreak in Louisville|Louisville|NaN
+New details in Baton Rouge cop killings|Baton Rouge|NaN
+Hepatitis B has not Left Florence|Florence|NaN
+More Zika patients reported in Pensacola|Pensacola|NaN
+Outbreak of Zika in Corpus Christi|Corpus Christi|NaN
+How to Avoid Rhinovirus in Lemon Grove|Lemon Grove|NaN
+Rumors about Rotavirus spreading in Huntsville have been refuted|Huntsville|NaN
+Rhinovirus has Arrived in Athens|Athens|NaN
+Outbreak of Zika in Panama City|Panama City|Panama
+Measles has not Left Brooklyn|Brooklyn|NaN
+Escondido neighborhood to get sprayed for Zika virus|Escondido|NaN
+Zika in Belmont, Belmont worry|Belmont|NaN
+Influenza has not Left Sacramento|Sacramento|NaN
+Veracruz hit by Zika Concerns|Veracruz|NaN
+Case of Mumps Reported in Dayton|Dayton|NaN
+Authorities are Worried about the Spread of Dengue in Kingston|Kingston|NaN
+Gainesville Deals with Disease Concerns|Gainesville|NaN
+Montevideo Encounters Severe Symptoms of Rotavirus|Montevideo|NaN
+Varicella Keeps Spreading in Detroit|Detroit|NaN
+Arhus is infested with Bronchitis|Arhus|NaN
+Zika Troubles come to Niteroi|Niteroi|NaN
+Zika cases in Singapore reach 393|Singapore|Singapore
+Manhattan Residents Recieve HIV vaccine|Manhattan|NaN
+Zika arrives in Miri|Miri|NaN
+Rumors about Dengue Spreading in Syracuse have been Refuted|Syracuse|NaN
+Will Norovirus vaccine help Raleigh?|Raleigh|NaN
+Lower Hospitalization in Auckland after Hepatitis D Vaccine becomes Mandatory|Auckland|NaN
+How to Avoid Gonorrhea in Shreveport|Shreveport|NaN
+Ithaca is infested with Dengue|Ithaca|NaN
+Will MCD vaccine help Strasbourg?|Strasbourg|NaN
+New medicine wipes out Measles in Fresno|Fresno|NaN
+BREAKING â€“ Zika in Missoula|Missoula|NaN
+Zika arrives in Santos|Santos|NaN
+Sick Livestock Leads to Serious Trouble for Belfort|Belfort|NaN
+Hepatitis E has not Left Libreville|Libreville|NaN
+New medicine wipes out Chikungunya in Tucson|Tucson|NaN
+Norovirus has Arrived in Winnipeg|Winnipeg|NaN
+Hepatitis B Comes to Kansas City|Kansas City|NaN
+More Patients in Cambridge are Getting Diagnosed with Chickenpox|Cambridge|NaN
+Chikungunya Exposure in Toledo|Toledo|NaN
+Is Lafayette prepared to combat Zika?|Lafayette|NaN
+Mecca tests new cure for Chikungunya|Mecca|NaN
+Zika arrives in San Benito|San Benito|NaN
+Syphilis Outbreak in Harrisburg|Harrisburg|NaN
+Zika Arrives in North Miami|North Miami|NaN
+Urbana Encounters Severe Symptoms of Meningitis|Urbana|NaN
+Pittsburgh Residents Recieve Norovirus vaccine|Pittsburgh|NaN
+Chikungunya Hits Denver|Denver|NaN
+Zika case recorded in Tunapuna Â»|Tunapuna|NaN
+Spike of Respiratory Syncytial Virus Cases in Mandalay|Mandalay|NaN
+HIV Keeps Spreading in Boulder|Boulder|NaN
+More Zika patients reported in Joao Pessoa|Joao Pessoa|NaN
+Will Tuberculosis vaccine help Rockville?|Rockville|NaN
+Mad Cow Disease Re-emerges in Chatham|Chatham|NaN
+Zika Virus Arrives in Ontario|Ontario|NaN
+Mad Cow Disease Hits Naples|Naples|NaN
+More Zika patients reported in Davao|Davao|NaN
+The Spread of Chikungunya in Arcadia has been Confirmed|Arcadia|NaN
+Oxford tests new cure for HIV|Oxford|NaN
+Outbreak of Zika in Stephenville|Stephenville|NaN
+Providence Encounters Severe Symptoms of Dengue|Providence|NaN
+Tests negative on Windsor Zika carriers|Windsor|NaN
+Zika battle outlined at Valdosta meeting|Valdosta|NaN
+Zika case reported in Coral Gables|Coral Gables|NaN
+Hepatitis C Outbreak in Danbury|Danbury|NaN
+Chickenpox has Arrived in Chula Vista|Chula Vista|NaN
+Syphilis Hits Jefferson|Jefferson|NaN
+Will HIV vaccine help Las Vegas?|Las Vegas|NaN
+Zika arrives in West Palm Beach|West Palm Beach|NaN
+Mobile authorities confirmed the spread of Bronchitis|Mobile|NaN
+Zika spreads to Daytona Beach|Daytona Beach|NaN
+Lausanne Residents Recieve Meningitis vaccine|Lausanne|NaN
+Rhinovirus Comes to San Jose|San Jose|NaN
+Spike of Chlamydia Cases in Farmington|Farmington|NaN
+Authorities are Worried about the Spread of Rotavirus in Union|Union|NaN
+Rumors about Hepatitis D spreading in Albany have been refuted|Albany|NaN
+Zika symptoms spotted in Bello|Bello|NaN
+Will Meningitis vaccine help Hamburg?|Hamburg|NaN
+Madera Patient in Critical Condition after Contracting Rabies|Madera|NaN
+Zika Virus Detected in Lubbock|Lubbock|NaN
+Malaria re-emerges in Boise|Boise|NaN
+Varicella re-emerges in Lagos|Lagos|NaN
+Vericella spreading in Ibadan|Ibadan|NaN
+Schools in Birmingham Closed Due to Measles Outbreak|Birmingham|NaN
+How to Avoid Hepatitis B in Waldorf|Waldorf|NaN
+More people in Mclean are infected with Hepatitis A every year|McLean|NaN
+Tuberculosis Outbreak in Newark|Newark|NaN
+Zika Virus Sparks 'International Concern'|Sparks|NaN
+Spike of Chlamydia Cases in Berlin|Berlin|NaN
+Zika-carrying mosquitoes discovered in Ardmore|Ardmore|NaN
+Zika Mosquitoes May Have Bred in Bromeliads, Florida Officials Say|Florida|NaN
+More Livestock in Fontainebleau are infected with Mad Cow Disease|Fontainebleau|NaN
+Frisco Woman Tests Positive For Zika Virus|Frisco|NaN
+Authorities are Worried about the Spread of Norovirus in Dubai|Dubai|NaN
+Benton Residents Recieve Pneumonia vaccine|Benton|NaN
+Case of Hepatitis A Reported in Calgary|Calgary|NaN
+Zika Outbreak in Pinewood|Pinewood|NaN
+Will Swine Flu vaccine help Ljubljana?|Ljubljana|NaN
+Bronchitis re-emerges in Tehran|Tehran|NaN
+Mad Cow case in Murcia|Murcia|NaN
+Mad Cow Disease Spreads to Margate|Margate|NaN
+Zika Strikes St. Petersburg|St. Petersburg|NaN
+Will the Mad Cow Outbreak Reach Vienna?|Vienna|NaN
+More Patients in Orange are Getting Diagnosed with Chickenpox|Orange|NaN
+Lower Hospitalization in Richmond after Mumps Vaccine becomes Mandatory|Richmond|NaN
+Meningitis re-emerges in Medina|Medina|NaN
+Four cases of Zika in Hidalgo County|Hidalgo|NaN
+Zika symptoms spotted in Hollywood|Hollywood|NaN
+Zika arrives in Oaxaca|Oaxaca|NaN
+More people in Durham are infected with Chlamydia every year|Durham|NaN
+Authorities are Worried about the Spread of Gonorrhea in Taoyuan City|Taoyuan City|NaN
+Swine Flu re-emerges in La Jolla|La Jolla|NaN
+Tuberculosis Outbreak in Hartford|Hartford|NaN
+Rumors about Mumps Spreading in New Bedford have been Refuted|New Bedford|NaN
+Respiratory Syncytial Virus Vaccine is now Required in Tulsa|Tulsa|NaN
+More people in Indianapolis are infected with Norovirus every year|Indianapolis|NaN
+Lower Hospitalization in Dhaka after Measles Vaccine becomes Mandatory|Dhaka|NaN
+Albany Residents Recieve Respiratory Syncytial Virus vaccine|Albany|NaN
+Rotavirus Vaccine is now Required in Starkville|Starkville|NaN
+Schools in Yaounde Closed Due to Mumps Outbreak|Yaounde|NaN
+More people in Nadi are infected with HIV every year|Nadi|NaN
+Tocumen tests new cure for Hepatitis A|Tocumen|NaN
+Phnom Penh hit by Zika Threat|Phnom Penh|NaN
+Zika Troubles come to Harlingen|Harlingen|NaN
+Zika spreads to Barranquilla|Barranquilla|NaN
+Milwaukee authorities confirmed the spread of Rhinovirus|Milwaukee|NaN
+Mad Cow Disease Hits Rotterdam|Rotterdam|NaN
+Zika symptoms spotted in Arlington|Arlington|NaN
+West Nile Virus Hits Yogyakarta|Yogyakarta|NaN
+More Patients in Dublin are Getting Diagnosed with Bronchitis|Dublin|NaN
+Rumors about Tuberculosis Spreading in Baud have been Refuted|Baud|NaN
+Rumors about West Nile Virus Spreading in Salem have been Refuted|Salem|NaN
+St. Catharines Patient in Critical Condition after Contracting Dengue|St. Catharines|NaN
+More Zika patients reported in Camacari|Camacari|NaN
+Outbreak of Zika in Pasig City|Pasig City|NaN
+Zika Troubles come to Kampong Cham|Kampong Cham|NaN
+Zika case reported in Rizal|Rizal|NaN
+Zika Spreads to Palm Beach Gardens|Palm Beach Gardens|NaN
+More people in Saint Petersburg are infected with Varicella every year|Saint Petersburg|NaN
+Spike of Herpes Cases in Meriden|Meriden|NaN
+Zika case reported in Abilene|Abilene|NaN
+Outbreak of Zika in Palm Springs|Palm Springs|NaN
+Halifax is infested with Swine Flu|Halifax|NaN
+Zika arrives in Natal|Natal|NaN
+Herpes Keeps Spreading in Rochester|Rochester|NaN
+Zika case reported in Phetchabun|Phetchabun|NaN
+How to Avoid Pneumonia in Bullhead City|Bullhead City|NaN
+West Nile Virus re-emerges in Wellington|Wellington|NaN
+Rumors about Pneumonia spreading in Ottawa have been refuted|Ottawa|NaN
+Meningitis re-emerges in Summerville|Summerville|NaN
+Pneumonia Symptoms Spread all over Bloomington|Bloomington|NaN
+More Patients in Stuttgart are Getting Diagnosed with Rabies|Stuttgart|NaN
+Schools in Glasgow Closed Due to Hepatitis B Outbreak|Glasgow|NaN
+Phoenix Residents Recieve Syphilis vaccine|Phoenix|NaN
+Spanish flu spreading in Madrid|Madrid|NaN
+Rabies Hits Madrid|Madrid|NaN
+Zika Outbreak in Weslaco|Weslaco|NaN
+How to Avoid Chlamydia in Santiago|Santiago|NaN
+Rotavirus Vaccine is now Required in Las Cumbres|Las Cumbres|NaN
+Mumps Symptoms Spread all over Jefferson|Jefferson|NaN
+Mad Cow Outbreak Spreading in Ennis|Ennis|NaN
+Southampton Patient in Critical Condition after Contracting Tuberculosis|Southampton|NaN
+The Spread of Rhinovirus in Boardman has been Confirmed|Boardman|NaN
+Richland Center is infested with Hepatitis B|Richland|NaN
+Authorities are Worried about the Spread of Chickenpox in Richmond|Richmond|NaN
+Chikungunya re-emerges in Kobe|Kobe|NaN
+Malaria Vaccine is now Required in Schenectady|Schenectady|NaN
+Hepatitis D has Arrived in Grenoble|Grenoble|NaN
+West Nile Virus Symptoms Spread all over Yerevan|Yerevan|NaN
+Zika Outbreak in Sincelejo|Sincelejo|NaN
+Rumors about HIV spreading in Montpellier have been refuted|Montpellier|NaN
+Praia tests new cure for Pneumonia|Praia|NaN
+Lower Hospitalization in Lakewood after Hepatitis B Vaccine becomes Mandatory|Lakewood|NaN
+Zika spreads to Kuching|Kuching|NaN
+Spike of Rotavirus Cases in Omaha|Omaha|NaN
+Tuberculosis re-emerges in Silver Springs|Springs|NaN
+Will West Nile Virus vaccine help Coronado?|Coronado|NaN
+Zika case confirmed in Lorain|Lorain|NaN
+Chickenpox Hits Simpsonville|Simpsonville|NaN
+Framingham Residents Receive Measles vaccine|Framingham|NaN
+Rumors about Mad Cow Disease Brighton have been Refuted|Brighton|NaN
+Zika case reported in Jacobina|Jacobina|NaN
+Bridgeport authorities confirmed the spread of West Nile Virus|Bridgeport|NaN
+Measles Vaccine is now Required in Wailuku|Wailuku|NaN
+Zika symptoms spotted in Surat|Surat|NaN
+More contaminated cattle reported in Bedford|Bedford|NaN
+Zika in Tamarac!|Tamarac|NaN
+Will Measles vaccine help Milford?|Milford|NaN
+Spike of Norovirus Cases in Huddersfield|Huddersfield|NaN
+Rhinovirus Hits Bakersfield|Bakersfield|NaN
+Lower Hospitalization in Papeete after Measles Vaccine becomes Mandatory|Papeete|NaN
+Zika arrives in Udon Thani|Udon Thani|NaN
+Spike of Dengue Cases in Stockholm|Stockholm|NaN
+More people in Berkeley are infected with Swine Flu every year|Berkeley|NaN
+Zika only the latest mosquito-borne threat to New Orleans|New Orleans|NaN
+Will Swine Flu vaccine help Annapolis?|Annapolis|NaN
+Lower Hospitalization in Monroe after Hepatitis D Vaccine becomes Mandatory|Monroe|NaN
+New medicine wipes out Dengue in Saginaw|Saginaw|NaN
+Spike of Rhinovirus Cases in Sevierville|Sevierville|NaN
+Duisburg up in Arms over Mad Cow Disease|Duisburg|NaN
+New medicine wipes out Mumps in Saint Charles|Saint Charles|NaN
+Case of Chikungunya Reported in Gaithersburg|Gaithersburg|NaN
+How to Avoid Respiratory Syncytial Virus in San Bernardino|San Bernardino|NaN
+Laventille authorities confirmed the spread of Rhinovirus|Laventille|NaN
+More Zika patients reported in Waco|Waco|NaN
+Will Herpes vaccine help Newcastle?|Newcastle|NaN
+Erie County sets Zika traps|Erie|NaN
+How to Avoid Norovirus in Greenville|Greenville|NaN
+More Zika patients reported in Calumpang|Calumpang|NaN
+Zika symptoms spotted in Quisqueya|Quisqueya|NaN
+Rumors about Hepatitis D Spreading in Montreal have been Refuted|Montreal|NaN
+Zika symptoms spotted in Fortaleza|Fortaleza|NaN
+Rumors about Bronchitis spreading in Bundaberg have been refuted|Bundaberg|NaN
+Hepatitis A re-emerges in Stamford|Stamford|NaN
+Schools in Huntington Closed Due to Rotavirus Outbreak|Huntington|NaN
+Will Mad Cow Vaccine Help Bristol?|Bristol|NaN
+Chickenpox Comes to Stillwater|Stillwater|NaN
+The Spread of Meningitis in Imperial has been Confirmed|Imperial|NaN
+Case of Measles Reported in Springdale|Springdale|NaN
+Norwalk Encounters Severe Symptoms of Malaria|Norwalk|NaN
+Zika arrives in Orange City|Orange|NaN
+Pilsen Encounters Severe Symptoms of Malaria|Pilsen|NaN
+Will Hepatitis B vaccine help La Paz?|La Paz|NaN
+Zika Outbreak in Puducherry|Puducherry|NaN
+More Zika patients reported in Carrollton|Carrollton|NaN
+Will Rabies vaccine help Tangier?|Tangier|NaN
+Zika symptoms spotted in Iquitos|Iquitos|NaN
+West Nile Virus Exposure in Racine|Racine|NaN
+The Spread of Hepatitis E in Lansing has been Confirmed|Lansing|NaN
+West Nile Virus Exposure in Alpharetta|Alpharetta|NaN
+Pedro Juan Caballero Encounters Severe Symptoms of Pneumonia|Pedro Juan Caballero|NaN
+More Zika patients reported in Melbourne|Melbourne|NaN
+Zika Troubles come to La Libertad|La Libertad|NaN
+Herpes Vaccine is now Required in Mattoon|Mattoon|NaN
+Kent is infested with Rabies|Kent|NaN
+Zika symptoms spotted in Bonita Springs|Bonita Springs|NaN
+The Spread of Malaria in Brazzaville has been Confirmed|Brazzaville|NaN
+More Zika patients reported in Fort Myers|Fort Myers|NaN
+Zika spreads to Lewisville|Lewisville|NaN
+Ogden is infested with Gonorrhea|Ogden|NaN
+Fort Hood Reports its First Zika Patient|Fort Hood|NaN
+Huzhou Residents Receive Hepatitis B vaccine|Huzhou|NaN
+New medicine wipes out Rabies in Newburgh|Newburgh|NaN
+Iowa City Encounters Severe Symptoms of Rhinovirus|Iowa City|NaN
+Spike of Rabies Cases in Managua|Managua|NaN
+Outbreak of Zika in Santa Elena|Santa Elena|NaN
+Mumps Hits Howard Beach|Howard Beach|NaN
+The Spread of Gonorrhea in Reno has been Confirmed|Reno|NaN
+How to Avoid Rhinovirus in Plainfield|Plainfield|NaN
+Rumors about Varicella spreading in Carlsbad have been refuted|Carlsbad|NaN
+Scranton authorities confirmed the spread of Gonorrhea|Scranton|NaN
+Mad Cow Disease Disastrous to Brussels|Brussels|NaN
+Zika spreads to Olinda|Olinda|NaN
+Hallandale Beach a Victim of Zika Outbreak|Hallandale Beach|NaN
+Rhinovirus re-emerges in Storrs|Storrs|NaN
+Germantown authorities confirmed the spread of Chickenpox|Germantown|NaN
+Rumors about Rotavirus spreading in North Platte have been refuted|North Platte|NaN
+Spike of Hepatitis C Cases in Golden|Golden|NaN
+Authorities are Worried about the Spread of Hepatitis D in Ganja|Ganja|NaN
+Dengue Exposure in Kathmandu|Kathmandu|NaN
+Tuberculosis has Arrived in Fairfield|Fairfield|NaN
+Outbreak of Zika in Kozhikode|Kozhikode|NaN
+Bronchitis Symptoms Spread all over Santa Fe|Santa Fe|NaN
+More Patients in Alexandria are Getting Diagnosed with Mumps|Alexandria|NaN
+Pneumonia Exposure in Alhambra|Alhambra|NaN
+Hepatitis C re-emerges in Damascus|Damascus|NaN
+Lower Hospitalization in Pekanbaru after Rotavirus Vaccine becomes Mandatory|Pekanbaru|NaN
+Schools in Bentonville Closed Due to Hepatitis B Outbreak|Bentonville|NaN
+Hepatitis E Hits Hammond|Hammond|NaN
+Schools in Bridgeton Closed Due to Mumps Outbreak|Bridgeton|NaN
+Biloxi Residents Recieve Chlamydia vaccine|Biloxi|NaN
+Case of Mad Cow Disease Reported in Hilden|Hilden|NaN
+Rumors about Rabies Spreading in Khartoum have been Refuted|Khartoum|NaN
+Harare is infested with Pneumonia|Harare|NaN
+Zika symptoms spotted in Sibu|Sibu|NaN
+Zika arrives in Quezon|Quezon|NaN
+More Patients in Crawfordsville are Getting Diagnosed with Rabies|Crawfordsville|NaN
+Spike of Hepatitis B Cases in Greenville|Greenville|NaN
+Authorities are Worried about the Spread of Hepatitis D in Akron|Akron|NaN
+More Zika patients reported in Nuevo Laredo|Nuevo Laredo|NaN
+Bronchitis Keeps Spreading in San Mateo|San Mateo|NaN
+Zika arrives in Boca Raton|Boca Raton|NaN
+Bradenton Experiences Zika Troubles|Bradenton|NaN
+Chlamydia Symptoms Spread all over University City|University City|NaN
+Wisconsin Rapids Patient in Critical Condition after Contracting Chickenpox|Wisconsin Rapids|NaN
+Zika spreads to Kissimmee|Kissimmee|NaN
+Herpes Symptoms Spread all over Fremont|Fremont|NaN
+Spike of Pneumonia Cases in The Bronx|The Bronx|NaN
+Authorities are Worried about the Spread of Hepatitis D in North Bay|North Bay|NaN
+The Spread of Herpes in Baku has been Confirmed|Baku|NaN
+Will Measles vaccine help Sochi?|Sochi|NaN
+Tuberculosis Symptoms Spread all over Caguas|Caguas|NaN
+HIV has Arrived in Tacoma|Tacoma|NaN
+Malaria re-emerges in Nashua|Nashua|NaN
+Arvada is infested with Syphilis|Arvada|NaN
+Spike of Syphilis Cases in West Monroe|Monroe|NaN
+More Zika patients reported in Ribeirao Preto|Ribeirao Preto|NaN
+Deerfield tests new cure for Measles|Deerfield|NaN
+Contaminated Meat Brings Trouble for Bonn Farmers|Bonn|NaN
+Hepatitis A re-emerges in Foster City|Foster City|NaN
+How to Avoid Tuberculosis in Santa Monica|Santa Monica|NaN
+Zika reported in Fort Pierce|Fort Pierce|NaN
+Authorities are Worried about the Spread of Syphilis in Pyongyang|Pyongyang|NaN
+Zika spreads to Winter Park|Winter Park|NaN
+Durango is infested with Hepatitis B|Durango|NaN
+Hepatitis A has not Left Staten Island|Staten Island|NaN
+Mpika authorities confirmed the spread of Chikungunya|Mpika|NaN
+Gladstone Encounters Severe Symptoms of Dengue|Gladstone|NaN
+Mad Cow Disease Hits London|London|NaN
+New Milford Patient in Critical Condition after Contracting Respiratory Syncytial Virus|New Milford|NaN
+More people in Palo Alto are infected with HIV every year|Palo Alto|NaN
+HIV Symptoms Spread all over Hinthada|Hinthada|NaN
+Zika symptoms spotted in Quito|Quito|NaN
+Vineland authorities confirmed the spread of Chlamydia|Vineland|NaN
+Sulu, Zamboanga brace for Zika|Zamboanga|NaN
+More Zika patients reported in Custodia|Custodia|NaN
+Tupelo Residents Recieve Syphilis vaccine|Tupelo|NaN
+Spanish Flu Outbreak in Lisbon|Lisbon|NaN
+Spanish Flu Spreading through Madrid|Madrid|NaN
+Barcelona Struck by Spanish Flu|Barcelona|NaN
+Spanish Flu Outbreak in Lisbon|Lisbon|NaN
+Spanish Flu Spreading through Madrid|Madrid|NaN
+Barcelona Struck by Spanish Flu|Barcelona|NaN
+The Spread of Dengue in Yakima has been Confirmed|Yakima|NaN
+Tuberculosis Hits Luanda|Luanda|NaN
+Will West Nile Virus vaccine help Dumai?|Dumai|NaN
+Rumors about Chlamydia spreading in Redmond have been refuted|Redmond|NaN
+Case of Varicella Reported in Concord|Concord|NaN
+Zika virus case reported in Rockland|Rockland|NaN
+Zika investigators coming to Mankato|Mankato|NaN
+Toms River Encounters Severe Symptoms of Respiratory Syncytial Virus|Toms River|NaN
+The Spread of Malaria in Zanzibar has been Confirmed|Zanzibar|NaN
+Malaria Outbreak Hits Zanzibar's Tourist Industry|Zanzibar|NaN
+Tourist Perishes from Malaria in Arusha|Arusha|NaN
+Herpes Symptoms Spread all over New Kingston|New Kingston|NaN
+More people in Yokohama are infected with Norovirus every year|Yokohama|NaN
+More people in Kitwe are infected with Respiratory Syncytial Virus every year|Kitwe|NaN
+Hepatitis D Keeps Spreading in Bismarck|Bismarck|NaN
+Varicella Outbreak in Minot|Minot|NaN
+Malaria has Arrived in Terrebonne|Terrebonne|NaN
+Chikungunya Keeps Spreading in North Vancouver|North Vancouver|NaN
+Authorities are Worried about the Spread of Chickenpox in Hemet|Hemet|NaN
+Rumors about Hepatitis C spreading in Darien have been refuted|Darien|NaN
+The Spread of West Nile Virus in Fairfield has been Confirmed|Fairfield|NaN
+Princeton Encounters Severe Symptoms of Dengue|Princeton|NaN
+Norovirus Keeps Spreading in Copenhagen|Copenhagen|NaN
+Wuhan is infested with Varicella|Wuhan|NaN
+Zika spreads to San Luis Potosi|San Luis Potosi|NaN
+Spike of Norovirus Cases in Canberra|Canberra|NaN
+Zika Troubles come to Greater Noida|Greater Noida|NaN
+Lower Hospitalization in Palm Springs after Hepatitis A Vaccine becomes Mandatory|Palm Springs|NaN
+Outbreak of Zika in Leesburg|Leesburg|NaN
+Authorities are Worried about the Spread of Tuberculosis in Cantu|Cantu|NaN
+New medicine wipes out HIV in Kihei|Kihei|NaN
+Sangre Grande Residents Recieve Gonorrhea vaccine|Sangre Grande|NaN
+Outbreak of Zika in Colombo|Colombo|NaN
+Will Rotavirus vaccine help Addis Ababa?|Addis Ababa|NaN
+Stony Brook University experts discuss Zika virus|University|NaN
+Lower Hospitalization in Janesville after Varicella Vaccine becomes Mandatory|Janesville|NaN
+Rabies Outbreak in Altus|Altus|NaN
+Miami resident suggests Zika precautions|Miami|NaN
+Zika Troubles come to Jaen|Jaen|NaN
+Hepatitis B Exposure in Edinburgh|Edinburgh|NaN
+Zika case reported in Reynosa|Reynosa|NaN
+Schools in Tulare Closed Due to Mumps Outbreak|Tulare|NaN
+More Zika patients reported in Chennai|Chennai|NaN
+Hepatitis D Keeps Spreading in Danvers|Danvers|NaN
+Authorities a Miami|Miami|NaN
+Zika case reported in Medellin|Medellin|NaN
+Spike of Tuberculosis Cases in Albuquerque|Albuquerque|NaN
+More people in Cranford are infected with Hepatitis A every year|Cranford|NaN
+West Nile Virus Hits Monroe|Monroe|NaN
+Pneumonia Outbreak in Springville|Springville|NaN
+Zika arrives in San Onofre|San Onofre|NaN
+Lung Cancer Rates Increasing in Moscow|Moscow|NaN
+Rumors about Rotavirus Spreading in Joliet have been Refuted|Joliet|NaN
+More Zika patients reported in Chanthaburi|Chanthaburi|NaN
+Lawrenceville is infested with Dengue|Lawrenceville|NaN
+Zika Reported in Ciudad Acuna|Ciudad Acuna|NaN
+Zika case reported in Limoeiro|Limoeiro|NaN
+Ibadan tests new cure for Malaria|Ibadan|NaN
+Gonorrhea has Arrived in Avon Lake|Avon Lake|NaN
+Pneumonia has not Left Kinshasa|Kinshasa|NaN
+Respiratory Syncytial Virus Hits Henderson|Henderson|NaN
+More Zika patients reported in Lakeland|Lakeland|NaN
+Malaria Vaccine is now Required in Winona|Winona|NaN
+More Patients in Canton are Getting Diagnosed with Norovirus|Canton|NaN
+Ronkonkoma is infested with Chickenpox|Ronkonkoma|NaN
+Kedougou tests new cure for Hepatitis C|Kedougou|NaN
+Gonorrhea Exposure in Norwalk|Norwalk|NaN
+How to Avoid Rhinovirus in Medford|Medford|NaN
+Hepatitis D Symptoms Spread all over Evansville|Evansville|NaN
+New medicine wipes out Herpes in Bossier City|Bossier City|NaN
+Pneumonia Exposure in San Jose|San Jose|NaN
+Authorities are Worried about the Spread of Mad Cow Disease in Edinburgh|Edinburgh|NaN
+Duluth Patient in Critical Condition after Contracting Rotavirus|Duluth|NaN
+Norfolk tests new cure for Herpes|Norfolk|NaN
+More Zika patients reported in Botucatu|Botucatu|NaN
+Manassas Encounters Severe Symptoms of Measles|Manassas|NaN
+Fayetteville authorities confirmed the spread of HIV|Fayetteville|NaN
+Varicella Exposure in Cambridge|Cambridge|NaN
+Hepatitis A Vaccine is now Required in Fukushima|Fukushima|NaN
+Zika Outbreak in South Miami|Miami|NaN
+Hepatitis D Symptoms Spread all over North Bethesda|North Bethesda|NaN
+Panama Cityâ€™s first Zika related death|Panama|Panama
+West Nile Virus has Arrived in Dongguan|Dongguan|NaN
+Zika arrives in Belmopan|Belmopan|NaN
+Zika seminars in Yuma County|Yuma|NaN
+Rumors about Hepatitis E Spreading in Morristown have been Refuted|Morristown|NaN
+Mumps Outbreak in Joplin|Joplin|NaN
+Authorities are Worried about the Spread of Mumps in Corona|Corona|NaN
+Schools in Danville Closed Due to Tuberculosis Outbreak|Danville|NaN
+Marquette tests new cure for Hepatitis A|Marquette|NaN
+Norovirus Vaccine is now Required in Anaheim|Anaheim|NaN
+Zika Outbreak in Manaus|Manaus|NaN
+Zika spreads to Caucasia|Caucasia|NaN
+Case of Malaria Reported in Aurora|Aurora|NaN
+Manchester Residents Recieve Influenza vaccine|Manchester|NaN
+Zika spreads to Kamphaeng Phet|Kamphaeng Phet|NaN
+Rotavirus Vaccine is now Required in Labasa|Labasa|NaN
+The Spread of Hepatitis E in Fargo has been Confirmed|Fargo|NaN
+Zika Outbreak in Mexicali|Mexicali|NaN
+West Nile Virus Keeps Spreading in Hauppauge|Hauppauge|NaN
+Bronchitis Keeps Spreading in Hayward|Hayward|NaN
+Zika spreads to Plant City|Plant City|NaN
+Chlamydia Exposure in Sanaa|Sanaa|NaN
+Zika Reported in North Miami Beach|North Miami Beach|NaN
+More Patients in Kensington are Getting Diagnosed with Varicella|Kensington|NaN
+Case of West Nile Virus Reported in Riverside|Riverside|NaN
+Northfield Encounters Severe Symptoms of Herpes|Northfield|NaN
+The Spread of Respiratory Syncytial Virus in Monroe has been Confirmed|Monroe|NaN
+How to Avoid Hepatitis B in Trenton|Trenton|NaN
+Zika Reported in Ilopango|Ilopango|NaN
+Barstow Patient in Critical Condition after Contracting Herpes|Barstow|NaN
+Hepatitis D Exposure in Aswan|Aswan|NaN
+Will Gonorrhea vaccine help East Moline?|East Moline|NaN
+New medicine wipes out Influenza in Redlands|Redlands|NaN
+How to Avoid Contaminated Meat when Visiting Basel|Basel|NaN
+More Zika patients reported in Kampong Speu|Kampong Speu|NaN
+Alameda Residents Recieve Rabies vaccine|Alameda|NaN
+Mad Cow Disease Detected in Lyon|Lyon|NaN
+Memphis Encounters Severe Symptoms of Swine Flu|Memphis|NaN
+Zika Troubles come to Delray Beach|Delray Beach|NaN
+How to Avoid Chikungunya in Hampton|Hampton|NaN
+Zika Reported in Sao Jose|Sao Jose|NaN
+Case of Norovirus Reported in Stratford|Stratford|NaN
+How to Avoid Hepatitis E in South Bend|South Bend|NaN
+Hepatitis C Outbreak in Bethlehem|Bethlehem|NaN
+Davenport is infested with Dengue|Davenport|NaN
+Rumors about Swine Flu spreading in Suzhou have been refuted|Suzhou|NaN
+Malaria Vaccine is now Required in Elyria|Elyria|NaN
+Case of Swine Flu Reported in Tbilisi|Tbilisi|NaN
+Influenza Keeps Spreading in Suffolk|Suffolk|NaN
+More people in Allentown are infected with Chlamydia every year|Allentown|NaN
+Mad Cow Disease re-emerges in Bedford|Bedford|NaN
+Authorities are Worried about the Spread of Hepatitis B in Yiwu|Yiwu|NaN
+Zika Outbreak in Yurimaguas|Yurimaguas|NaN
+Dengue Outbreak in Easton|Easton|NaN
+Varicella has Arrived in Milton|Milton|NaN
+New medicine wipes out Meningitis in Sevilla|Sevilla|NaN
+Authorities are Worried about the Spread of Varicella in Clovis|Clovis|NaN
+More Zika patients reported in Fort Worth|Fort Worth|NaN
+Zika symptoms spotted in Boynton Beach|Boynton Beach|NaN
+Outbreak of Zika in Portoviejo|Portoviejo|NaN
+Influenza Exposure in Muscat|Muscat|NaN
+Rumors about Rabies spreading in Jerusalem have been refuted|Jerusalem|NaN
+More Zika patients reported in Indang|Indang|NaN
+Suva authorities confirmed the spread of Rotavirus|Suva|NaN
+More Zika patients reported in Bella Vista|Bella Vista|NaN
+Zika Outbreak in Wichita Falls|Wichita Falls|NaN
