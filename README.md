@@ -10,6 +10,9 @@ https://nbviewer.jupyter.org/github/daveking63/Discovering_Disease_Outbreaks_in_
 
 2. Finding Geographic Locations of Headlines
 
+finished assignment (see): Discovering_Disease_Outbreaks_in_the_News_Part_2.ipynb (above) or to run in nbviewer go to -
+https://nbviewer.jupyter.org/github/daveking63/Discovering_Disease_Outbreaks_in_News_Headlines/blob/master/Discovering_Disease_Outbreaks_in_the_News_Part_2.ipynb 
+
 3. Clustering Headlines Based on Location
 
 4. Identifying Disease Outbreaks
