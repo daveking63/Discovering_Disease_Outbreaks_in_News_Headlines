@@ -1,0 +1,612 @@
+Headline|City|Country|CountryCode|CountryName|ContinentCode|Admin1Code|WHO_Region|WHO_Subdivision|Latitude|Longitude|Segment|Group|Cluster|Distance_to_center|Disease|Zika_Vector|State_Zika_Potential
+Zika Outbreak Hits Miami|Miami|NaN|US|United States|NAm|FL|AMR|A|25.77427|-80.19366|us|1|0|180.21|zika|1|3
+Could Zika Reach New York City?|New York City|NaN|US|United States|NAm|NY|AMR|A|40.71427|-74.00597|us|0|1|119.28|zika|1|1
+First Case of Zika in Miami Beach|Miami Beach|NaN|US|United States|NAm|FL|AMR|A|25.79065|-80.13005|us|1|0|182.23|zika|1|3
+"Mystery Virus Spreads in Recife, Brazil"|Recife|Brazil|BR|Brazil|SA|30|AMR|B|-8.05389|-34.88111|not us|9|0|56.74|NaN|1|NaN
+Dallas man comes down with case of Zika|Dallas|NaN|US|United States|NAm|TX|AMR|A|32.78306|-96.80667|us|4|2|57.89|zika|1|3
+Trinidad confirms first Zika case|Trinidad|NaN|BO|Bolivia|SA|3|AMR|D|-14.83333|-64.9|not us|NaN|NaN|NaN|zika|1|NaN
+Zika Concerns are Spreading in Houston|Houston|NaN|US|United States|NAm|TX|AMR|A|29.76328|-95.36327|us|NaN|NaN|NaN|zika|1|3
+Geneve Scientists Battle to Find Cure|Geneve|NaN|CH|Switzerland|EU|GE|EUR|A|46.20222|6.14569|not us|0|1|265.59|NaN|0|NaN
+The CDC in Atlanta is Growing Worried|Atlanta|NaN|US|United States|NAm|GA|AMR|A|33.749|-84.38798|us|0|1|626.1|NaN|1|3
+Zika Infested Monkeys in Sao Paulo|Sao Paulo|NaN|BR|Brazil|SA|27|AMR|B|-23.5475|-46.63611|not us|6|2|79.54|zika|1|NaN
+Brownsville teen contracts Zika virus|Brownsville|NaN|US|United States|NAm|TX|AMR|A|25.90175|-97.49748|us|6|3|60.76|zika|1|3
+Mosquito control efforts in St. Louis take new tactics with Zika threat|St. Louis|NaN|US|United States|NAm|MO|AMR|A|38.62727|-90.19789|us|3|4|272.56|zika|1|2
+San Juan reports 1st U.S. Zika-related death amid outbreak|San Juan|NaN|AR|Argentina|SA|18|AMR|B|-31.5375|-68.53639|not us|NaN|NaN|NaN|zika|1|NaN
+"Flu outbreak in Galveston, Texas"|Galveston|NaN|US|United States|NAm|TX|AMR|A|29.30135|-94.7977|us|NaN|NaN|NaN|NaN|1|3
+Zika alert â€“ Manila now threatened|Manila|NaN|PH|Philippines|AS|NCR|WPR|B|14.6042|120.9822|not us|1|3|44.74|zika|1|NaN
+Zika afflicts 7 in Iloilo City|Iloilo|NaN|PH|Philippines|AS|6|WPR|B|10.69694|122.56444|not us|1|3|245.52|zika|1|NaN
+New Los Angeles Hairstyle goes Viral|Los Angeles|NaN|CL|Chile|SA|6|AMR|B|-37.46973|-72.35366|not us|NaN|NaN|NaN|NaN|1|NaN
+Orlando volunteers aid Zika research|Orlando|NaN|US|United States|NAm|FL|AMR|A|28.53834|-81.37924|us|1|0|83.88|zika|1|3
+Chicago's First Zika Case Confirmed|Chicago|NaN|US|United States|NAm|IL|AMR|A|41.85003|-87.65005|us|3|4|64.52|zika|1|2
+Tampa Bay Area Zika Case Count Climbs|Tampa|NaN|US|United States|NAm|FL|AMR|A|27.94752|-82.45843|us|1|0|25.94|zika|1|3
+"Bad Water Leads to Sickness in Flint, Michigan"|Flint|NaN|US|United States|NAm|MI|AMR|A|43.01253|-83.68746|us|3|4|183.12|NaN|1|1
+Baltimore plans for Zika virus|Baltimore|NaN|US|United States|NAm|MD|AMR|A|39.29038|-76.61219|us|0|1|50.39|zika|1|3
+London Health Unit Tracks Mad Cow Disease|London|NaN|GB|United Kingdom|EU|ENG|EUR|A|51.50853|-0.12574|not us|0|1|214.44|mad cow|0|NaN
+Zika cases in Vietnam's Ho Chi Minh City surge|Ho Chi Minh City|Vietnam|VN|Vietnam|AS|20|NaN|NaN|10.82302|106.62965|not us|3|4|365.74|zika|1|NaN
+Philadelphia experts track pandemic|Philadelphia|NaN|US|United States|NAm|PA|AMR|A|39.95233|-75.16379|us|0|1|39.18|NaN|1|1
+Flu season hits Boston|Boston|NaN|US|United States|NAm|MA|AMR|A|42.35843|-71.05977|us|0|1|309.19|NaN|1|1
+Scientists in Paris to look for answers|Paris|NaN|FR|France|EU|11|EUR|A|48.85341|2.3488|not us|0|1|93.28|NaN|0|NaN
+Key Zika Findings in San Diego Institute|San Diego|NaN|US|United States|NAm|CA|AMR|A|32.71571|-117.16472|us|2|5|215.5|zika|1|3
+Thailand-Zika Virus in Bangkok|Bangkok|Thailand|TH|Thailand|AS|40|SEAR|B|13.75398|100.50144|not us|3|4|127.34|zika|1|NaN
+Beijing team cracks Zika secret|Beijing|NaN|CN|China|AS|22|WPR|B|39.9075|116.39723|not us|NaN|NaN|NaN|zika|0|NaN
+Zika spreading to Salvador|Salvador|NaN|BR|Brazil|SA|5|AMR|B|-12.97111|-38.51083|not us|21|5|62.6|zika|1|NaN
+Kuala Lumpur is Hit By Zika Threat|Kuala Lumpur|NaN|MY|Malaysia|AS|14|WPR|B|3.1412|101.68653|not us|8|6|83.68|zika|1|NaN
+First Zika case confirmed in Yangon|Yangon|NaN|MM|Myanmar|AS|17|SEAR|D|16.80528|96.15611|not us|3|4|453.52|zika|1|NaN
+Tallahassee Doctors Discuss Zika Virus|Tallahassee|NaN|US|United States|NAm|FL|AMR|A|30.43826|-84.28073|us|1|0|229.87|zika|1|3
+Zika Virus Reaches San Francisco|San Francisco|NaN|US|United States|NAm|CA|AMR|A|37.77493|-122.41942|us|2|5|246.25|zika|1|3
+New Vaccine on Trial in Bethesda District|Bethesda|NaN|US|United States|NAm|MD|AMR|A|38.98067|-77.10026|us|0|1|83.93|NaN|1|3
+Townsville Zika tests inconclusive|Townsville|NaN|AU|Australia|OC|4|WPR|A|-19.26639|146.80569|not us|NaN|NaN|NaN|zika|0|NaN
+Mandaluyong City under Siege by Virus|Mandaluyong City|NaN|PH|Philippines|AS|NCR|WPR|B|14.5832|121.0409|not us|1|3|41.78|NaN|1|NaN
+Hepatitis E re-emerges in Santa Rosa|Santa Rosa|NaN|PH|Philippines|AS|40|WPR|B|14.31222|121.11139|not us|1|3|22.89|hepatitis e|1|NaN
+Zika worries in San Salvador|San Salvador|NaN|SV|El Salvador|NAm|10|AMR|B|13.68935|-89.18718|not us|2|7|97.04|zika|1|NaN
+Zika virus reported in Cleveland|Cleveland|NaN|US|United States|NAm|OH|AMR|A|41.4995|-81.69541|us|3|4|250.97|zika|1|2
+More Zika patients reported in Austin|Austin|NaN|US|United States|NAm|TX|AMR|A|30.26715|-97.74306|us|4|2|152.63|zika|1|3
+"Zika outbreak in Piracicaba, Brazil"|Piracicaba|Brazil|BR|Brazil|SA|27|AMR|B|-22.72528|-47.64917|not us|6|2|104.71|zika|1|NaN
+Lima tries to address Zika Concerns|Lima|NaN|PE|Peru|SA|LMA|AMR|D|-12.04318|-77.02824|not us|NaN|NaN|NaN|zika|1|NaN
+More people in Toronto are infected with Hepatitis E every year|Toronto|NaN|CA|Canada|NAm|8|AMR|A|43.70011|-79.4163|not us|5|8|112.22|hepatitis e|0|NaN
+18 new Zika Cases in Bogota|Bogota|NaN|CO|Colombia|SA|34|AMR|B|4.60971|-74.08175|not us|7|9|201.9|zika|1|NaN
+Brisbane is infested with Meningitis|Brisbane|NaN|AU|Australia|OC|4|WPR|A|-27.46794|153.02809|not us|14|15|193.9|meningitis|0|NaN
+Cholera outbreak in Dakar|Dakar|NaN|SN|Senegal|AF|1|AFR|D|14.6937|-17.44406|not us|NaN|NaN|NaN|cholera|1|NaN
+Zika Virus Transmission Detected in Havana|Havana|NaN|CU|Cuba|NAm|2|AMR|A|23.13302|-82.38304|not us|NaN|NaN|NaN|zika|1|NaN
+Zika symtomps spotted in Key West|Key West|NaN|US|United States|NAm|FL|AMR|A|24.55524|-81.78163|us|1|0|213.16|zika|1|3
+Case of Measles Reported in Vancouver|Vancouver|NaN|CA|Canada|NAm|2|AMR|A|49.24966|-123.11934|not us|NaN|NaN|NaN|measles|0|NaN
+"Seattle scientists get $500,000 grant to pursue Zika vaccine New 7:50 pm"|Seattle|NaN|US|United States|NAm|WA|AMR|A|47.60621|-122.33207|us|7|6|51.24|zika|1|0
+Nashville takes precautions against Zika|Nashville|NaN|US|United States|NAm|TN|AMR|A|36.16589|-86.78444|us|10|10|125.63|zika|1|3
+Saint Croix under Zika threat|Saint Croix|NaN|VI|U.S. Virgin Islands|NAm|10|NaN|NaN|17.72751|-64.74698|not us|19|29|186.66|zika|0|NaN
+Fort Collins Encounters Severe Symptoms of Gonorrhea|Fort Collins|NaN|US|United States|NAm|CO|AMR|A|40.58526|-105.08442|us|5|7|47|gonorrhea|1|1
+"Zika surfaces in Klang, Malaysia"|Klang|Malaysia|MY|Malaysia|AS|12|WPR|B|3.03667|101.44333|not us|8|6|85.81|zika|1|NaN
+Rumors about Meningitis spreading in Guatemala City have been refuted|Guatemala City|Guatemala|GT|Guatemala|NAm|7|AMR|D|14.64072|-90.51327|not us|2|7|192.12|meningitis|1|NaN
+Madison lab developing vaccine against Zika virus [The Wisconsin State Journal]|Madison|NaN|US|United States|NAm|WI|AMR|A|43.07305|-89.40123|us|3|4|185.59|zika|1|0
+New Zika Case Confirmed in Sarasota County|Sarasota|NaN|US|United States|NAm|FL|AMR|A|27.33643|-82.53065|us|1|0|24.83|zika|1|3
+Lower Hospitalization in Entebbe after Rabies Vaccine becomes Mandatory|Entebbe|NaN|UG|Uganda|AF|C|AFR|E|0.05621|32.47949|not us|11|10|143.55|rabies|1|NaN
+Carnival under threat in Rio De Janeiro due to Zika outbreak|Rio de Janeiro|NaN|BR|Brazil|SA|21|AMR|B|-22.90642|-43.18223|not us|6|2|182.28|zika|1|NaN
+Second Zika Paitient in Brasilia|Brasilia|NaN|BR|Brazil|SA|7|AMR|B|-15.77972|-47.92972|not us|NaN|NaN|NaN|zika|1|NaN
+Jacksonville man hit by Zika|Jacksonville|NaN|US|United States|NAm|FL|AMR|A|30.33218|-81.65565|us|1|0|191.49|zika|1|3
+Schools in Shenzhen Closed Due to Malaria Outbreak|Shenzhen|NaN|CN|China|AS|30|WPR|B|22.54554|114.0683|not us|12|11|21.2|malaria|0|NaN
+Caracas patient dies|Caracas|NaN|VE|Venezuela|SA|25|AMR|B|10.48801|-66.87919|not us|NaN|NaN|NaN|NaN|1|NaN
+More Quezon City Zika Transmissions|Quezon City|NaN|PH|Philippines|AS|NCR|WPR|B|14.6488|121.0509|not us|1|3|45.76|zika|1|NaN
+Schools in Sydney Closed Due to Respiratory Syncytial Virus Outbreak|Sydney|NaN|AU|Australia|OC|2|WPR|A|-33.86785|151.20732|not us|NaN|NaN|NaN|respiratory syncytial|0|NaN
+Mumbai's Health Minister warns of more Zika cases|Mumbai|NaN|IN|India|AS|16|SEAR|D|19.07283|72.88261|not us|22|12|41.29|zika|1|NaN
+Pune woman diagnosed with Zika|Pune|NaN|IN|India|AS|16|SEAR|D|18.51957|73.85535|not us|22|12|86.1|zika|1|NaN
+Hospitals in Hanoi fill up with Zika patients|Hanoi|NaN|VN|Vietnam|AS|44|NaN|NaN|21.0245|105.84117|not us|NaN|NaN|NaN|zika|1|NaN
+Authorities are Worried about the Spread of Bronchitis in Silver Spring|Silver Spring|NaN|US|United States|NAm|MD|AMR|A|38.99067|-77.02609|us|0|1|80.27|bronchitis|1|3
+Zika: Delhi for strict monitoring|Delhi|NaN|IN|India|AS|7|SEAR|D|28.65195|77.23149|not us|23|13|7.2|zika|1|NaN
+Belize City under threat from Zika|Belize City|Belize|BZ|Belize|NAm|1|AMR|B|17.49952|-88.19756|not us|2|7|251.95|zika|1|NaN
+"Student sick in Campinas, Brazil"|Campinas|Brazil|BR|Brazil|SA|27|AMR|B|-22.90556|-47.06083|not us|6|2|70.93|NaN|1|NaN
+More Zika cases in Soyapango|Soyapango|NaN|SV|El Salvador|NAm|10|AMR|B|13.71024|-89.13989|not us|2|7|93.7|zika|1|NaN
+Authorities are Worried about the Spread of Mad Cow Disease in Rome|Rome|NaN|IT|Italy|EU|7|EUR|A|41.89193|12.51133|not us|0|1|681.31|mad cow|0|NaN
+Seoul confirms 14th Zika infection|Seoul|NaN|KR|South Korea|AS|11|NaN|NaN|37.566|126.9784|not us|NaN|NaN|NaN|zika|0|NaN
+Hepatitis B Vaccine is now Required in Quebec|Quebec|NaN|CA|Canada|NAm|10|AMR|A|46.81228|-71.21454|not us|5|8|340.39|hepatitis b|0|NaN
+Zika outbreak spreads to Mexico City|Mexico City|Mexico|MX|Mexico|NAm|9|AMR|B|19.42847|-99.12766|not us|13|14|57.61|zika|1|NaN
+Rochester authorities confirmed the spread of Dengue|Rochester|NaN|US|United States|NAm|NY|AMR|A|43.15478|-77.61556|us|0|1|259.21|dengue|1|1
+El Paso fighting Zika|El Paso|NaN|US|United States|NAm|TX|AMR|A|31.75872|-106.48693|us|NaN|NaN|NaN|zika|1|3
+Visitor to Cucuta contracts Zika|Cucuta|NaN|CO|Colombia|SA|21|AMR|B|7.89391|-72.50782|not us|7|9|152.36|zika|1|NaN
+Zika now spreading through Jakarta|Jakarta|NaN|ID|Indonesia|AS|4|SEAR|B|-6.21462|106.84513|not us|NaN|NaN|NaN|zika|1|NaN
+Salt Lake City tests new cure for Respiratory Syncytial Virus|Salt Lake City|NaN|US|United States|NAm|UT|AMR|A|40.76078|-111.89105|us|11|8|4.61|respiratory syncytial|1|0
+Zika San Antonio Patient Speaks Out|San Antonio|NaN|US|United States|NAm|TX|AMR|A|29.42412|-98.49363|us|4|2|215.58|zika|1|3
+Ebola outbreak in Kampala|Kampala|NaN|UG|Uganda|AF|C|AFR|E|0.31628|32.58219|not us|11|10|145.87|ebola|1|NaN
+Precautionary Zika measures in Rockhampton|Rockhampton|NaN|AU|Australia|OC|4|WPR|A|-23.38032|150.50595|not us|14|15|131.79|zika|0|NaN
+Zika arrives in Tegucigalpa|Tegucigalpa|NaN|HN|Honduras|NAm|8|AMR|B|14.0818|-87.20681|not us|2|7|39.26|zika|1|NaN
+New Zika Case Confirmed in Belo Horizonte|Belo Horizonte|NaN|BR|Brazil|SA|15|AMR|B|-19.92083|-43.93778|not us|6|2|225.31|zika|1|NaN
+Case of Hepatitis E Reported in Melbourne|Melbourne|NaN|AU|Australia|OC|7|WPR|A|-37.814|144.96332|not us|NaN|NaN|NaN|hepatitis e|0|NaN
+First Columbus Zika case|Columbus|NaN|US|United States|NAm|OH|AMR|A|39.96118|-82.99879|us|3|4|210.96|zika|1|2
+New medicine wipes out Tuberculosis in Taipei|Taipei|NaN|TW|Taiwan|AS|4|NaN|NaN|25.04776|121.53185|not us|NaN|NaN|NaN|tuberculosis|0|NaN
+"Zika Patient in Seminole, Florida"|Seminole|NaN|US|United States|NAm|FL|AMR|A|27.83975|-82.79121|us|1|0|35.59|zika|1|3
+Antipolo under threat from Zika Virus|Antipolo|NaN|PH|Philippines|AS|40|WPR|B|14.62578|121.12251|not us|1|3|42.82|zika|1|NaN
+Spreading Zika reaches Bacoor|Bacoor|NaN|PH|Philippines|AS|40|WPR|B|14.45896|120.93851|not us|1|3|37.78|zika|1|NaN
+Can Zika make it here to Vero Beach?|Vero Beach|NaN|US|United States|NAm|FL|AMR|A|27.63864|-80.39727|us|1|0|114.53|zika|1|3
+Zika afflicts patient in Calamba|Calamba|NaN|PH|Philippines|AS|40|WPR|B|14.21167|121.16528|not us|1|3|15.08|zika|1|NaN
+Hollywood Outbreak Film Premieres|Hollywood|NaN|US|United States|NAm|CA|AMR|A|34.09834|-118.32674|us|2|5|99.46|NaN|1|3
+Petaling Jaya man ill from Zika|Petaling Jaya|NaN|MY|Malaysia|AS|12|WPR|B|3.10726|101.60671|not us|8|6|83.97|zika|1|NaN
+Malaria is Spreading in Johannesburg|Johannesburg|NaN|ZA|South Africa|AF|6|AFR|E|-26.20227|28.04363|not us|10|16|58.95|malaria|0|NaN
+Authorities are Worried about the Spread of Norovirus in Buenos Aires|Buenos Aires|NaN|AR|Argentina|SA|7|AMR|B|-34.61315|-58.37723|not us|24|17|61.61|norovirus|1|NaN
+Guangzhou Patient in Critical Condition after Contracting Swine Flu|Guangzhou|NaN|CN|China|AS|30|WPR|B|23.11667|113.25|not us|12|11|44.13|swine flu|0|NaN
+Doral hit by Deadly Virus|Doral|NaN|US|United States|NAm|FL|AMR|A|25.81954|-80.35533|us|1|0|170.98|NaN|1|3
+Tokyo Encounters Severe Symptoms of Meningitis|Tokyo|NaN|JP|Japan|AS|40|WPR|A|35.6895|139.69171|not us|25|18|43.71|meningitis|0|NaN
+Rabies Exposure in Hamilton|Hamilton|NaN|CA|Canada|NAm|8|AMR|A|43.25011|-79.84963|not us|5|8|148.06|rabies|0|NaN
+Authorities are Worried about the Spread of Influenza in Savannah|Savannah|NaN|US|United States|NAm|GA|AMR|A|32.08354|-81.09983|us|NaN|NaN|NaN|influenza|1|3
+Zika Outbreak in Hyderabad|Hyderabad|NaN|IN|India|AS|40|SEAR|D|17.38405|78.45636|not us|NaN|NaN|NaN|zika|1|NaN
+Birmingham Residents Recieve Rabies vaccine|Birmingham|NaN|GB|United Kingdom|EU|ENG|EUR|A|52.48142|-1.89983|not us|0|1|314.52|rabies|0|NaN
+Is Zika virus in Majuro?|Majuro|NaN|MH|Marshall Islands|OC|190|WPR|B|7.08971|171.38027|not us|NaN|NaN|NaN|zika|1|NaN
+Spreading Zika ruining Cancun fun|Cancun|NaN|MX|Mexico|NAm|23|AMR|B|21.17429|-86.84656|not us|NaN|NaN|NaN|zika|1|NaN
+Cancun hit by Outbreak of Party Fever!|Cancun|NaN|MX|Mexico|NAm|23|AMR|B|21.17429|-86.84656|not us|NaN|NaN|NaN|NaN|1|NaN
+HIV has Arrived in Fairfax|Fairfax|NaN|US|United States|NAm|VA|AMR|A|38.84622|-77.30637|us|0|1|98.32|hiv|1|3
+Spanish Flu Outbreak in Barcelona|Barcelona|NaN|ES|Spain|EU|56|EUR|A|41.38879|2.15899|not us|0|1|583.05|spanish flu|0|NaN
+Santa Barbara tests new cure for Hepatitis C|Santa Barbara|NaN|HN|Honduras|NAm|16|AMR|B|14.91944|-88.23611|not us|2|7|78.98|hepatitis c|1|NaN
+Spring break ruined by Zika in Fort Lauderdale|Fort Lauderdale|NaN|US|United States|NAm|FL|AMR|A|26.12231|-80.14338|us|1|0|166.46|zika|1|3
+Villavicencio under Zika threat|Villavicencio|NaN|CO|Colombia|SA|19|AMR|B|4.142|-73.62664|not us|7|9|241.17|zika|1|NaN
+Two more Zika cases confirmed in Laredo|Laredo|NaN|US|United States|NAm|TX|AMR|A|27.50641|-99.50754|us|6|3|108.09|zika|1|3
+New Delhi Addressing Zika Concerns|New Delhi|NaN|IN|India|AS|7|SEAR|D|28.63576|77.22445|not us|23|13|7.04|zika|1|NaN
+"New Zika Case in Kota Kinabalu, Malaysia"|Kota Kinabalu|Malaysia|MY|Malaysia|AS|16|WPR|B|5.9749|116.0724|not us|15|19|266.52|zika|1|NaN
+New medicine wipes out West Nile Virus in Ventura|Ventura|NaN|US|United States|NAm|CA|AMR|A|34.27834|-119.29317|us|2|5|76.59|west nile|1|3
+Meningitis re-emerges in Nassau|Nassau|NaN|BS|Bahamas|NAm|23|AMR|B|25.05823|-77.34306|not us|NaN|NaN|NaN|meningitis|1|NaN
+"Zika reaches Johor Bahru, Malaysia"|Johor Bahru|Malaysia|MY|Malaysia|AS|1|WPR|B|1.4655|103.7578|not us|8|6|115.99|zika|1|NaN
+Nha Trang Zika Outbreak|Nha Trang|NaN|VN|Vietnam|AS|54|NaN|NaN|12.24507|109.19432|not us|3|4|476.47|zika|1|NaN
+First Zika Case in Cincinnati|Cincinnati|NaN|US|United States|NAm|OH|AMR|A|39.12711|-84.51439|us|3|4|190.66|zika|1|2
+Molo Cholera Spread Causing Concern|Molo|NaN|KE|Kenya|AF|39|AFR|E|-0.24849|35.73194|not us|11|10|101.78|cholera|0|NaN
+Norovirus Exposure in Hong Kong|Hong Kong|Hong Kong|HK|Hong Kong|AS|HCW|NaN|NaN|22.27832|114.17469|not us|12|11|39.43|norovirus|0|NaN
+19 new Zika Cases in Sengkang|Sengkang|NaN|ID|Indonesia|AS|38|SEAR|B|-4.1279|120.0297|not us|NaN|NaN|NaN|zika|1|NaN
+Zika cases concern Charlotte residents|Charlotte|NaN|US|United States|NAm|NC|AMR|A|35.22709|-80.84313|us|0|1|412.35|zika|1|3
+Batangas Tourism Takes a Hit as Virus Spreads|Batangas|NaN|PH|Philippines|AS|40|WPR|B|13.7567|121.0584|not us|1|3|23.88|NaN|1|NaN
+Johannesburg Patient in Critical Condition after Contracting Pneumonia|Johannesburg|NaN|ZA|South Africa|AF|6|AFR|E|-26.20227|28.04363|not us|10|16|58.95|pneumonia|0|NaN
+Outbreak of Zika in Bacolod City|Bacolod City|NaN|PH|Philippines|AS|6|WPR|B|10.66667|122.95|not us|1|3|257.72|zika|1|NaN
+Respiratory Syncytial Virus Keeps Spreading in Masaya|Masaya|NaN|NI|Nicaragua|NAm|11|AMR|D|11.97444|-86.09417|not us|2|7|172.31|respiratory syncytial|1|NaN
+Spike of Pneumonia Cases in Springfield|Springfield|NaN|US|United States|NAm|MO|AMR|A|37.21533|-93.29824|us|8|9|99|pneumonia|1|2
+More Zika patients reported in Mcallen|McAllen|NaN|US|United States|NAm|TX|AMR|A|26.20341|-98.23001|us|6|3|31.23|zika|1|3
+Zika case reported in Jupiter|Jupiter|NaN|US|United States|NAm|FL|AMR|A|26.93422|-80.09421|us|1|0|141.42|zika|1|3
+Zika virus confirmed in Westchester|Westchester|NaN|US|United States|NAm|FL|AMR|A|25.75482|-80.32727|us|1|0|175.44|zika|1|3
+Authorities are Worried about the Spread of Tuberculosis in Abuja|Abuja|NaN|NG|Nigeria|AF|11|AFR|D|9.05785|7.49508|not us|NaN|NaN|NaN|tuberculosis|1|NaN
+Rumors about Hepatitis D Spreading in San Juan Capistrano have been Refuted|San Juan Capistrano|NaN|US|United States|NAm|CA|AMR|A|33.50169|-117.66255|us|2|5|154.19|hepatitis d|1|3
+The Spread of Measles in Spokane has been Confirmed|Spokane|NaN|US|United States|NAm|WA|AMR|A|47.65966|-117.42908|us|NaN|NaN|NaN|measles|1|0
+Zika alert for Rio Grande Valley residents|Rio Grande|NaN|AR|Argentina|SA|23|AMR|B|-53.78769|-67.70946|not us|NaN|NaN|NaN|zika|1|NaN
+Zika symptoms spotted in Colombo|Colombo|NaN|LK|Sri Lanka|AS|36|SEAR|B|6.93548|79.84868|not us|NaN|NaN|NaN|zika|0|NaN
+West Nile Virus Outbreak in Louisville|Louisville|NaN|US|United States|NAm|KY|AMR|A|38.25424|-85.75941|us|3|4|222.05|west nile|1|3
+New details in Baton Rouge cop killings|Baton Rouge|NaN|US|United States|NAm|LA|AMR|A|30.44332|-91.18747|us|1|0|572.61|NaN|1|3
+Hepatitis B has not Left Florence|Florence|NaN|IT|Italy|EU|16|EUR|A|43.77925|11.24626|not us|0|1|538.18|hepatitis b|0|NaN
+More Zika patients reported in Pensacola|Pensacola|NaN|US|United States|NAm|FL|AMR|A|30.42131|-87.21691|us|1|0|356.15|zika|1|3
+Outbreak of Zika in Corpus Christi|Corpus Christi|NaN|US|United States|NAm|TX|AMR|A|27.80058|-97.39638|us|6|3|90.5|zika|1|3
+How to Avoid Rhinovirus in Lemon Grove|Lemon Grove|NaN|US|United States|NAm|CA|AMR|A|32.74255|-117.03142|us|2|5|218.01|rhinovirus|1|3
+Rumors about Rotavirus spreading in Huntsville have been refuted|Huntsville|NaN|US|United States|NAm|AL|AMR|A|34.7304|-86.58594|us|10|10|90.95|rotavirus|1|3
+Rhinovirus has Arrived in Athens|Athens|NaN|GR|Greece|EU|ESYE31|EUR|A|37.98376|23.72784|not us|NaN|NaN|NaN|rhinovirus|0|NaN
+Outbreak of Zika in Panama City|Panama City|Panama|US|United States|NAm|FL|AMR|A|30.15946|-85.65983|us|1|0|270.1|zika|1|3
+Measles has not Left Brooklyn|Brooklyn|NaN|US|United States|NAm|NY|AMR|A|40.6501|-73.94958|us|0|1|119.08|measles|1|1
+Escondido neighborhood to get sprayed for Zika virus|Escondido|NaN|US|United States|NAm|CA|AMR|A|33.11921|-117.08642|us|2|5|194.76|zika|1|3
+"Zika in Belmont, Belmont worry"|Belmont|NaN|US|United States|NAm|CA|AMR|A|37.52021|-122.2758|us|2|5|228.89|zika|1|3
+Influenza has not Left Sacramento|Sacramento|NaN|US|United States|NAm|CA|AMR|A|38.58157|-121.4944|us|2|5|256.71|influenza|1|3
+Veracruz hit by Zika Concerns|Veracruz|NaN|MX|Mexico|NAm|30|AMR|B|19.18095|-96.1429|not us|13|14|138.17|zika|1|NaN
+Case of Mumps Reported in Dayton|Dayton|NaN|US|United States|NAm|OH|AMR|A|39.75895|-84.19161|us|3|4|168.13|mumps|1|2
+Authorities are Worried about the Spread of Dengue in Kingston|Kingston|NaN|JM|Jamaica|NAm|17|AMR|B|17.99702|-76.79358|not us|NaN|NaN|NaN|dengue|1|NaN
+Gainesville Deals with Disease Concerns|Gainesville|NaN|US|United States|NAm|FL|AMR|A|29.65163|-82.32483|us|1|0|140.92|NaN|1|3
+Montevideo Encounters Severe Symptoms of Rotavirus|Montevideo|NaN|UY|Uruguay|SA|10|AMR|B|-34.90328|-56.18816|not us|24|17|151.4|rotavirus|0|NaN
+Varicella Keeps Spreading in Detroit|Detroit|NaN|US|United States|NAm|MI|AMR|A|42.33143|-83.04575|us|3|4|190.71|varicella|1|1
+Arhus is infested with Bronchitis|Arhus|NaN|DK|Denmark|EU|18|EUR|A|56.15674|10.21076|not us|0|1|514.1|bronchitis|0|NaN
+Zika Troubles come to Niteroi|Niteroi|NaN|BR|Brazil|SA|21|AMR|B|-22.88333|-43.10361|not us|6|2|187.05|zika|1|NaN
+Zika cases in Singapore reach 393|Singapore|Singapore|SG|Singapore|AS|1|WPR|A|1.28967|103.85007|not us|8|6|126.42|zika|1|NaN
+Manhattan Residents Recieve HIV vaccine|Manhattan|NaN|US|United States|NAm|NY|AMR|A|40.78343|-73.96625|us|0|1|123.85|hiv|1|1
+Zika arrives in Miri|Miri|NaN|MY|Malaysia|AS|11|WPR|B|4.39928|113.99163|not us|15|19|86.98|zika|1|NaN
+Rumors about Dengue Spreading in Syracuse have been Refuted|Syracuse|NaN|US|United States|NAm|NY|AMR|A|43.04812|-76.14742|us|0|1|234.82|dengue|1|1
+Will Norovirus vaccine help Raleigh?|Raleigh|NaN|US|United States|NAm|NC|AMR|A|35.7721|-78.63861|us|0|1|309.94|norovirus|1|3
+Lower Hospitalization in Auckland after Hepatitis D Vaccine becomes Mandatory|Auckland|NaN|NZ|New Zealand|OC|E7|WPR|A|-36.84853|174.76349|not us|NaN|NaN|NaN|hepatitis d|0|NaN
+How to Avoid Gonorrhea in Shreveport|Shreveport|NaN|US|United States|NAm|LA|AMR|A|32.52515|-93.75018|us|9|11|63.48|gonorrhea|1|3
+Ithaca is infested with Dengue|Ithaca|NaN|US|United States|NAm|NY|AMR|A|42.44063|-76.49661|us|0|1|195.61|dengue|1|1
+Will MCD vaccine help Strasbourg?|Strasbourg|NaN|FR|France|EU|44|EUR|A|48.58392|7.74553|not us|0|1|190.97|NaN|0|NaN
+New medicine wipes out Measles in Fresno|Fresno|NaN|US|United States|NAm|CA|AMR|A|36.74773|-119.77237|us|2|5|101.08|measles|1|3
+BREAKING â€“ Zika in Missoula|Missoula|NaN|US|United States|NAm|MT|AMR|A|46.87215|-113.994|us|NaN|NaN|NaN|zika|1|0
+Zika arrives in Santos|Santos|NaN|BR|Brazil|SA|27|AMR|B|-23.96083|-46.33361|not us|6|2|99.73|zika|1|NaN
+Sick Livestock Leads to Serious Trouble for Belfort|Belfort|NaN|FR|France|EU|27|EUR|A|47.64218|6.85385|not us|0|1|197.79|NaN|0|NaN
+Hepatitis E has not Left Libreville|Libreville|NaN|GA|Gabon|AF|1|AFR|D|0.39241|9.45356|not us|NaN|NaN|NaN|hepatitis e|1|NaN
+New medicine wipes out Chikungunya in Tucson|Tucson|NaN|US|United States|NAm|AZ|AMR|A|32.22174|-110.92648|us|12|12|73.51|chikungunya|1|2
+Norovirus has Arrived in Winnipeg|Winnipeg|NaN|CA|Canada|NAm|3|AMR|A|49.8844|-97.14704|not us|NaN|NaN|NaN|norovirus|0|NaN
+Hepatitis B Comes to Kansas City|Kansas City|NaN|US|United States|NAm|MO|AMR|A|39.09973|-94.57857|us|NaN|NaN|NaN|hepatitis b|1|2
+More Patients in Cambridge are Getting Diagnosed with Chickenpox|Cambridge|NaN|GB|United Kingdom|EU|ENG|EUR|A|52.2|0.11667|not us|0|1|236.31|chickenpox|0|NaN
+Chikungunya Exposure in Toledo|Toledo|NaN|US|United States|NAm|OH|AMR|A|41.66394|-83.55521|us|3|4|155.45|chikungunya|1|2
+Is Lafayette prepared to combat Zika?|Lafayette|NaN|US|United States|NAm|LA|AMR|A|30.22409|-92.01984|us|1|0|616.04|zika|1|3
+Mecca tests new cure for Chikungunya|Mecca|NaN|SA|Saudi Arabia|AS|14|EMR|B|21.42664|39.82563|not us|NaN|NaN|NaN|chikungunya|0|NaN
+Zika arrives in San Benito|San Benito|NaN|GT|Guatemala|NAm|12|AMR|D|16.91675|-89.91898|not us|2|7|254.7|zika|1|NaN
+Syphilis Outbreak in Harrisburg|Harrisburg|NaN|US|United States|NAm|PA|AMR|A|40.2737|-76.88442|us|0|1|71.66|syphilis|1|1
+Zika Arrives in North Miami|North Miami|NaN|US|United States|NAm|FL|AMR|A|25.89009|-80.18671|us|1|0|174.94|zika|1|3
+Urbana Encounters Severe Symptoms of Meningitis|Urbana|NaN|US|United States|NAm|IL|AMR|A|40.11059|-88.20727|us|3|4|125.1|meningitis|1|2
+Pittsburgh Residents Recieve Norovirus vaccine|Pittsburgh|NaN|US|United States|NAm|PA|AMR|A|40.44062|-79.99589|us|3|4|348.07|norovirus|1|1
+Chikungunya Hits Denver|Denver|NaN|US|United States|NAm|CO|AMR|A|39.73915|-104.9847|us|5|7|12.49|chikungunya|1|1
+Zika case recorded in Tunapuna Â»|Tunapuna|NaN|TT|Trinidad and Tobago|NAm|TUP|AMR|B|10.65245|-61.38878|not us|26|20|3.71|zika|1|NaN
+Spike of Respiratory Syncytial Virus Cases in Mandalay|Mandalay|NaN|MM|Myanmar|AS|8|SEAR|D|21.97473|96.08359|not us|NaN|NaN|NaN|respiratory syncytial|1|NaN
+HIV Keeps Spreading in Boulder|Boulder|NaN|US|United States|NAm|CO|AMR|A|40.01499|-105.27055|us|5|7|12.63|hiv|1|1
+More Zika patients reported in Joao Pessoa|Joao Pessoa|NaN|BR|Brazil|SA|17|AMR|B|-7.115|-34.86306|not us|9|0|49.74|zika|1|NaN
+Will Tuberculosis vaccine help Rockville?|Rockville|NaN|US|United States|NAm|MD|AMR|A|39.084|-77.15276|us|0|1|82.58|tuberculosis|1|3
+Mad Cow Disease Re-emerges in Chatham|Chatham|NaN|GB|United Kingdom|EU|ENG|EUR|A|51.37891|0.52786|not us|0|1|186.19|mad cow|0|NaN
+Zika Virus Arrives in Ontario|Ontario|NaN|US|United States|NAm|CA|AMR|A|34.06334|-117.65089|us|2|5|123.64|zika|1|3
+Mad Cow Disease Hits Naples|Naples|NaN|IT|Italy|EU|4|EUR|A|40.85216|14.26811|not us|0|1|792.38|mad cow|0|NaN
+More Zika patients reported in Davao|Davao|NaN|PH|Philippines|AS|11|WPR|B|7.07306|125.61278|not us|27|21|93.25|zika|1|NaN
+The Spread of Chikungunya in Arcadia has been Confirmed|Arcadia|NaN|US|United States|NAm|CA|AMR|A|34.13973|-118.03534|us|2|5|105.69|chikungunya|1|3
+Oxford tests new cure for HIV|Oxford|NaN|GB|United Kingdom|EU|ENG|EUR|A|51.75222|-1.25596|not us|0|1|264.59|hiv|0|NaN
+Outbreak of Zika in Stephenville|Stephenville|NaN|US|United States|NAm|TX|AMR|A|32.2207|-98.20226|us|4|2|32.58|zika|1|3
+Providence Encounters Severe Symptoms of Dengue|Providence|NaN|US|United States|NAm|RI|AMR|A|41.82399|-71.41283|us|0|1|273.68|dengue|1|1
+Tests negative on Windsor Zika carriers|Windsor|NaN|CA|Canada|NAm|8|AMR|A|42.30008|-83.01654|not us|5|8|317.67|zika|0|NaN
+Zika battle outlined at Valdosta meeting|Valdosta|NaN|US|United States|NAm|GA|AMR|A|30.83334|-83.28032|us|1|0|230.66|zika|1|3
+Zika case reported in Coral Gables|Coral Gables|NaN|US|United States|NAm|FL|AMR|A|25.72149|-80.26838|us|1|0|179.62|zika|1|3
+Hepatitis C Outbreak in Danbury|Danbury|NaN|US|United States|NAm|CT|AMR|A|41.39482|-73.45401|us|0|1|171.7|hepatitis c|1|1
+Chickenpox has Arrived in Chula Vista|Chula Vista|NaN|US|United States|NAm|CA|AMR|A|32.64005|-117.0842|us|2|5|222.39|chickenpox|1|3
+Syphilis Hits Jefferson|Jefferson|NaN|US|United States|NAm|VA|AMR|A|38.86456|-77.18776|us|0|1|92.42|syphilis|1|3
+Will HIV vaccine help Las Vegas?|Las Vegas|NaN|US|United States|NAm|NV|AMR|A|36.17497|-115.13722|us|13|13|29.96|hiv|1|1
+Zika arrives in West Palm Beach|West Palm Beach|NaN|US|United States|NAm|FL|AMR|A|26.71534|-80.05337|us|1|0|149.51|zika|1|3
+Mobile authorities confirmed the spread of Bronchitis|Mobile|NaN|US|United States|NAm|AL|AMR|A|30.69436|-88.04305|us|1|0|407.98|bronchitis|1|3
+Zika spreads to Daytona Beach|Daytona Beach|NaN|US|United States|NAm|FL|AMR|A|29.21081|-81.02283|us|1|0|133.89|zika|1|3
+Lausanne Residents Recieve Meningitis vaccine|Lausanne|NaN|CH|Switzerland|EU|VD|EUR|A|46.516|6.63282|not us|0|1|255.88|meningitis|0|NaN
+Rhinovirus Comes to San Jose|San Jose|NaN|CR|Costa Rica|NAm|8|AMR|B|9.93333|-84.08333|not us|2|7|368.14|rhinovirus|1|NaN
+Spike of Chlamydia Cases in Farmington|Farmington|NaN|US|United States|NAm|NM|AMR|A|36.72806|-108.21869|us|NaN|NaN|NaN|chlamydia|1|2
+Authorities are Worried about the Spread of Rotavirus in Union|Union|NaN|US|United States|NAm|NJ|AMR|A|40.6976|-74.2632|us|0|1|108.11|rotavirus|1|2
+Rumors about Hepatitis D spreading in Albany have been refuted|Albany|NaN|US|United States|NAm|NY|AMR|A|42.65258|-73.75623|us|0|1|232.36|hepatitis d|1|1
+Zika symptoms spotted in Bello|Bello|NaN|CO|Colombia|SA|2|AMR|B|6.33732|-75.55795|not us|7|9|98.14|zika|1|NaN
+Will Meningitis vaccine help Hamburg?|Hamburg|NaN|DE|Germany|EU|4|EUR|A|53.57532|10.01534|not us|0|1|371.8|meningitis|0|NaN
+Madera Patient in Critical Condition after Contracting Rabies|Madera|NaN|US|United States|NAm|CA|AMR|A|36.96134|-120.06072|us|2|5|120.96|rabies|1|3
+Zika Virus Detected in Lubbock|Lubbock|NaN|US|United States|NAm|TX|AMR|A|33.57786|-101.85517|us|NaN|NaN|NaN|zika|1|3
+Malaria re-emerges in Boise|Boise|NaN|US|United States|NAm|ID|AMR|A|43.6135|-116.20345|us|NaN|NaN|NaN|malaria|1|0
+Varicella re-emerges in Lagos|Lagos|NaN|NG|Nigeria|AF|5|AFR|D|6.45407|3.39467|not us|28|22|48.51|varicella|1|NaN
+Vericella spreading in Ibadan|Ibadan|NaN|NG|Nigeria|AF|32|AFR|D|7.37756|3.90591|not us|28|22|24.25|vericella|1|NaN
+Schools in Birmingham Closed Due to Measles Outbreak|Birmingham|NaN|GB|United Kingdom|EU|ENG|EUR|A|52.48142|-1.89983|not us|0|1|314.52|measles|0|NaN
+How to Avoid Hepatitis B in Waldorf|Waldorf|NaN|US|United States|NAm|MD|AMR|A|38.62456|-76.93914|us|0|1|94.02|hepatitis b|1|3
+More people in Mclean are infected with Hepatitis A every year|McLean|NaN|US|United States|NAm|VA|AMR|A|38.93428|-77.17748|us|0|1|89.16|hepatitis a|1|3
+Tuberculosis Outbreak in Newark|Newark|NaN|US|United States|NAm|NJ|AMR|A|40.73566|-74.17237|us|0|1|113.42|tuberculosis|1|2
+Zika Virus Sparks 'International Concern'|Sparks|NaN|US|United States|NAm|NV|AMR|A|39.53491|-119.75269|us|2|5|288.95|zika|1|1
+Spike of Chlamydia Cases in Berlin|Berlin|NaN|DE|Germany|EU|16|EUR|A|52.52437|13.41053|not us|0|1|453.86|chlamydia|0|NaN
+Zika-carrying mosquitoes discovered in Ardmore|Ardmore|NaN|US|United States|NAm|OK|AMR|A|34.17426|-97.14363|us|4|2|121.99|zika|1|3
+"Zika Mosquitoes May Have Bred in Bromeliads, Florida Officials Say"|Florida|NaN|CU|Cuba|NAm|5|AMR|A|21.52536|-78.22579|not us|NaN|NaN|NaN|zika|1|NaN
+More Livestock in Fontainebleau are infected with Mad Cow Disease|Fontainebleau|NaN|FR|France|EU|11|EUR|A|48.40908|2.70177|not us|0|1|107.1|mad cow|0|NaN
+Frisco Woman Tests Positive For Zika Virus|Frisco|NaN|US|United States|NAm|TX|AMR|A|33.15067|-96.82361|us|4|2|70.35|zika|1|3
+Authorities are Worried about the Spread of Norovirus in Dubai|Dubai|NaN|AE|United Arab Emirates|AS|3|EMR|B|25.07725|55.30927|not us|NaN|NaN|NaN|norovirus|0|NaN
+Benton Residents Recieve Pneumonia vaccine|Benton|NaN|US|United States|NAm|AR|AMR|A|34.56454|-92.58683|us|NaN|NaN|NaN|pneumonia|1|3
+Case of Hepatitis A Reported in Calgary|Calgary|NaN|CA|Canada|NAm|1|AMR|A|51.05011|-114.08529|not us|NaN|NaN|NaN|hepatitis a|0|NaN
+Zika Outbreak in Pinewood|Pinewood|NaN|US|United States|NAm|FL|AMR|A|25.86898|-80.21699|us|1|0|174.59|zika|1|3
+Will Swine Flu vaccine help Ljubljana?|Ljubljana|NaN|SI|Slovenia|EU|61|EUR|A|46.05108|14.50513|not us|0|1|552.3|swine flu|0|NaN
+Bronchitis re-emerges in Tehran|Tehran|NaN|IR|Iran|AS|26|EMR|B|35.69439|51.42151|not us|NaN|NaN|NaN|bronchitis|0|NaN
+Mad Cow case in Murcia|Murcia|NaN|ES|Spain|EU|31|EUR|A|37.98704|-1.13004|not us|4|23|213.17|mad cow|0|NaN
+Mad Cow Disease Spreads to Margate|Margate|NaN|GB|United Kingdom|EU|ENG|EUR|A|51.38132|1.38617|not us|0|1|158.02|mad cow|0|NaN
+Zika Strikes St. Petersburg|St. Petersburg|NaN|US|United States|NAm|FL|AMR|A|27.77086|-82.67927|us|1|0|27.39|zika|1|3
+Will the Mad Cow Outbreak Reach Vienna?|Vienna|NaN|AT|Austria|EU|9|EUR|A|48.20849|16.37208|not us|0|1|574.13|mad cow|0|NaN
+More Patients in Orange are Getting Diagnosed with Chickenpox|Orange|NaN|US|United States|NAm|CA|AMR|A|33.78779|-117.85311|us|2|5|131.65|chickenpox|1|3
+Lower Hospitalization in Richmond after Mumps Vaccine becomes Mandatory|Richmond|NaN|US|United States|NAm|VA|AMR|A|37.55376|-77.46026|us|0|1|170.79|mumps|1|3
+Meningitis re-emerges in Medina|Medina|NaN|SA|Saudi Arabia|AS|5|EMR|B|24.46861|39.61417|not us|NaN|NaN|NaN|meningitis|0|NaN
+Four cases of Zika in Hidalgo County|Hidalgo|NaN|MX|Mexico|NAm|19|AMR|B|25.97205|-100.45029|not us|16|24|94.58|zika|1|NaN
+Zika symptoms spotted in Hollywood|Hollywood|NaN|US|United States|NAm|CA|AMR|A|34.09834|-118.32674|us|2|5|99.46|zika|1|3
+Zika arrives in Oaxaca|Oaxaca|NaN|MX|Mexico|NAm|20|AMR|B|17.06542|-96.72365|not us|13|14|192.81|zika|1|NaN
+More people in Durham are infected with Chlamydia every year|Durham|NaN|US|United States|NAm|NC|AMR|A|35.99403|-78.89862|us|0|1|304.3|chlamydia|1|3
+Authorities are Worried about the Spread of Gonorrhea in Taoyuan City|Taoyuan City|NaN|TW|Taiwan|AS|4|NaN|NaN|24.99368|121.29696|not us|NaN|NaN|NaN|gonorrhea|0|NaN
+Swine Flu re-emerges in La Jolla|La Jolla|NaN|US|United States|NAm|CA|AMR|A|32.84727|-117.2742|us|2|5|204.44|swine flu|1|3
+Tuberculosis Outbreak in Hartford|Hartford|NaN|US|United States|NAm|CT|AMR|A|41.76371|-72.68509|us|0|1|218.24|tuberculosis|1|1
+Rumors about Mumps Spreading in New Bedford have been Refuted|New Bedford|NaN|US|United States|NAm|MA|AMR|A|41.63526|-70.92701|us|0|1|289.22|mumps|1|1
+Respiratory Syncytial Virus Vaccine is now Required in Tulsa|Tulsa|NaN|US|United States|NAm|OK|AMR|A|36.15398|-95.99277|us|8|9|67.57|respiratory syncytial|1|3
+More people in Indianapolis are infected with Norovirus every year|Indianapolis|NaN|US|United States|NAm|IN|AMR|A|39.76838|-86.15804|us|3|4|115.37|norovirus|1|2
+Lower Hospitalization in Dhaka after Measles Vaccine becomes Mandatory|Dhaka|NaN|IN|India|AS|34|SEAR|D|26.67479|85.16698|not us|NaN|NaN|NaN|measles|1|NaN
+Albany Residents Recieve Respiratory Syncytial Virus vaccine|Albany|NaN|US|United States|NAm|NY|AMR|A|42.65258|-73.75623|us|0|1|232.36|respiratory syncytial|1|1
+Rotavirus Vaccine is now Required in Starkville|Starkville|NaN|US|United States|NAm|MS|AMR|A|33.45049|-88.81961|us|10|10|96.76|rotavirus|1|3
+Schools in Yaounde Closed Due to Mumps Outbreak|Yaounde|NaN|CM|Cameroon|AF|11|AFR|D|3.86667|11.51667|not us|NaN|NaN|NaN|mumps|1|NaN
+More people in Nadi are infected with HIV every year|Nadi|NaN|FJ|Fiji|OC|5|WPR|B|-17.80309|177.41617|not us|29|25|69.41|hiv|1|NaN
+Tocumen tests new cure for Hepatitis A|Tocumen|NaN|PA|Panama|NAm|8|AMR|B|9.08939|-79.3831|not us|30|26|6.77|hepatitis a|1|NaN
+Phnom Penh hit by Zika Threat|Phnom Penh|NaN|KH|Cambodia|AS|22|WPR|B|11.56245|104.91601|not us|3|4|245.26|zika|1|NaN
+Zika Troubles come to Harlingen|Harlingen|NaN|US|United States|NAm|TX|AMR|A|26.19063|-97.6961|us|6|3|37.35|zika|1|3
+Zika spreads to Barranquilla|Barranquilla|NaN|CO|Colombia|SA|4|AMR|B|10.96854|-74.78132|not us|7|9|241.63|zika|1|NaN
+Milwaukee authorities confirmed the spread of Rhinovirus|Milwaukee|NaN|US|United States|NAm|WI|AMR|A|43.0389|-87.90647|us|3|4|132.08|rhinovirus|1|0
+Mad Cow Disease Hits Rotterdam|Rotterdam|NaN|NL|Netherlands|EU|11|EUR|A|51.9225|4.47917|not us|0|1|152.42|mad cow|0|NaN
+Zika symptoms spotted in Arlington|Arlington|NaN|US|United States|NAm|TX|AMR|A|32.73569|-97.10807|us|4|2|40.53|zika|1|3
+West Nile Virus Hits Yogyakarta|Yogyakarta|NaN|ID|Indonesia|AS|10|SEAR|B|-7.80139|110.36472|not us|NaN|NaN|NaN|west nile|1|NaN
+More Patients in Dublin are Getting Diagnosed with Bronchitis|Dublin|NaN|IE|Ireland|EU|L|EUR|A|53.33306|-6.24889|not us|0|1|500.88|bronchitis|0|NaN
+Rumors about Tuberculosis Spreading in Baud have been Refuted|Baud|NaN|IN|India|AS|21|SEAR|D|20.83773|84.32618|not us|NaN|NaN|NaN|tuberculosis|1|NaN
+Rumors about West Nile Virus Spreading in Salem have been Refuted|Salem|NaN|IN|India|AS|25|SEAR|D|11.65376|78.15538|not us|17|27|32.98|west nile|1|NaN
+St. Catharines Patient in Critical Condition after Contracting Dengue|St. Catharines|NaN|CA|Canada|NAm|8|AMR|A|43.17126|-79.24267|not us|5|8|129.67|dengue|0|NaN
+More Zika patients reported in Camacari|Camacari|NaN|BR|Brazil|SA|5|AMR|B|-12.6975|-38.32417|not us|21|5|60.57|zika|1|NaN
+Outbreak of Zika in Pasig City|Pasig City|NaN|PH|Philippines|AS|NCR|WPR|B|14.58691|121.0614|not us|1|3|41.51|zika|1|NaN
+Zika Troubles come to Kampong Cham|Kampong Cham|NaN|KH|Cambodia|AS|2|WPR|B|11.99339|105.4635|not us|3|4|254.04|zika|1|NaN
+Zika case reported in Rizal|Rizal|NaN|PH|Philippines|AS|3|WPR|B|15.7118|121.1061|not us|1|3|117.04|zika|1|NaN
+Zika Spreads to Palm Beach Gardens|Palm Beach Gardens|NaN|US|United States|NAm|FL|AMR|A|26.82339|-80.13865|us|1|0|141.67|zika|1|3
+More people in Saint Petersburg are infected with Varicella every year|Saint Petersburg|NaN|RU|Russia|EU|66|NaN|NaN|59.93863|30.31413|not us|NaN|NaN|NaN|varicella|0|NaN
+Spike of Herpes Cases in Meriden|Meriden|NaN|US|United States|NAm|CT|AMR|A|41.53815|-72.80704|us|0|1|203.44|herpes|1|1
+Zika case reported in Abilene|Abilene|NaN|US|United States|NAm|TX|AMR|A|32.44874|-99.73314|us|4|2|116.48|zika|1|3
+Outbreak of Zika in Palm Springs|Palm Springs|NaN|US|United States|NAm|CA|AMR|A|33.8303|-116.54529|us|2|5|181.62|zika|1|3
+Halifax is infested with Swine Flu|Halifax|NaN|CA|Canada|NAm|7|AMR|A|44.64533|-63.57239|not us|NaN|NaN|NaN|swine flu|0|NaN
+Zika arrives in Natal|Natal|NaN|BR|Brazil|SA|22|AMR|B|-5.795|-35.20944|not us|9|0|118.48|zika|1|NaN
+Herpes Keeps Spreading in Rochester|Rochester|NaN|US|United States|NAm|NY|AMR|A|43.15478|-77.61556|us|0|1|259.21|herpes|1|1
+Zika case reported in Phetchabun|Phetchabun|NaN|TH|Thailand|AS|14|SEAR|B|16.41904|101.16056|not us|3|4|179.1|zika|1|NaN
+How to Avoid Pneumonia in Bullhead City|Bullhead City|NaN|US|United States|NAm|AZ|AMR|A|35.14778|-114.5683|us|13|13|47.85|pneumonia|1|2
+West Nile Virus re-emerges in Wellington|Wellington|NaN|NZ|New Zealand|OC|G2|WPR|A|-41.28664|174.77557|not us|NaN|NaN|NaN|west nile|0|NaN
+Rumors about Pneumonia spreading in Ottawa have been refuted|Ottawa|NaN|CA|Canada|NAm|8|AMR|A|45.41117|-75.69812|not us|5|8|105.56|pneumonia|0|NaN
+Meningitis re-emerges in Summerville|Summerville|NaN|US|United States|NAm|SC|AMR|A|33.0185|-80.17565|us|NaN|NaN|NaN|meningitis|1|3
+Pneumonia Symptoms Spread all over Bloomington|Bloomington|NaN|US|United States|NAm|MN|AMR|A|44.8408|-93.29828|us|3|4|414.29|pneumonia|1|0
+More Patients in Stuttgart are Getting Diagnosed with Rabies|Stuttgart|NaN|DE|Germany|EU|1|EUR|A|48.78232|9.17702|not us|0|1|246.58|rabies|0|NaN
+Schools in Glasgow Closed Due to Hepatitis B Outbreak|Glasgow|NaN|GB|United Kingdom|EU|SCT|EUR|A|55.86515|-4.25763|not us|0|1|542.09|hepatitis b|0|NaN
+Phoenix Residents Recieve Syphilis vaccine|Phoenix|NaN|US|United States|NAm|AZ|AMR|A|33.44838|-112.07404|us|12|12|34.22|syphilis|1|2
+Spanish flu spreading in Madrid|Madrid|NaN|ES|Spain|EU|29|EUR|A|40.4165|-3.70256|not us|4|23|101.23|spanish flu|0|NaN
+Rabies Hits Madrid|Madrid|NaN|ES|Spain|EU|29|EUR|A|40.4165|-3.70256|not us|4|23|101.23|rabies|0|NaN
+Zika Outbreak in Weslaco|Weslaco|NaN|US|United States|NAm|TX|AMR|A|26.15952|-97.99084|us|6|3|32.51|zika|1|3
+How to Avoid Chlamydia in Santiago|Santiago|NaN|CL|Chile|SA|12|AMR|B|-33.45694|-70.64827|not us|NaN|NaN|NaN|chlamydia|1|NaN
+Rotavirus Vaccine is now Required in Las Cumbres|Las Cumbres|NaN|PA|Panama|NAm|8|AMR|B|9.08916|-79.52809|not us|30|26|4.12|rotavirus|1|NaN
+Mumps Symptoms Spread all over Jefferson|Jefferson|NaN|US|United States|NAm|VA|AMR|A|38.86456|-77.18776|us|0|1|92.42|mumps|1|3
+Mad Cow Outbreak Spreading in Ennis|Ennis|NaN|IE|Ireland|EU|M|EUR|A|52.84361|-8.98639|not us|0|1|595.29|mad cow|0|NaN
+Southampton Patient in Critical Condition after Contracting Tuberculosis|Southampton|NaN|GB|United Kingdom|EU|ENG|EUR|A|50.90395|-1.40428|not us|0|1|247.3|tuberculosis|0|NaN
+The Spread of Rhinovirus in Boardman has been Confirmed|Boardman|NaN|US|United States|NAm|OH|AMR|A|41.02423|-80.66285|us|3|4|306.59|rhinovirus|1|2
+Richland Center is infested with Hepatitis B|Richland|NaN|US|United States|NAm|WA|AMR|A|46.28569|-119.28446|us|7|6|119.59|hepatitis b|1|0
+Authorities are Worried about the Spread of Chickenpox in Richmond|Richmond|NaN|US|United States|NAm|VA|AMR|A|37.55376|-77.46026|us|0|1|170.79|chickenpox|1|3
+Chikungunya re-emerges in Kobe|Kobe|NaN|JP|Japan|AS|13|WPR|A|34.6913|135.183|not us|NaN|NaN|NaN|chikungunya|0|NaN
+Malaria Vaccine is now Required in Schenectady|Schenectady|NaN|US|United States|NAm|NY|AMR|A|42.81424|-73.93957|us|0|1|238.29|malaria|1|1
+Hepatitis D has Arrived in Grenoble|Grenoble|NaN|FR|France|EU|84|EUR|A|45.17869|5.71479|not us|0|1|326.36|hepatitis d|0|NaN
+West Nile Virus Symptoms Spread all over Yerevan|Yerevan|NaN|AM|Armenia|AS|11|EUR|B|40.18111|44.51361|not us|18|28|106.19|west nile|0|NaN
+Zika Outbreak in Sincelejo|Sincelejo|NaN|CO|Colombia|SA|27|AMR|B|9.30472|-75.39778|not us|7|9|135.51|zika|1|NaN
+Rumors about HIV spreading in Montpellier have been refuted|Montpellier|NaN|FR|France|EU|76|EUR|A|43.61092|3.87723|not us|0|1|423.52|hiv|0|NaN
+Praia tests new cure for Pneumonia|Praia|NaN|CV|Cabo Verde|AF|14|NaN|NaN|14.93152|-23.51254|not us|NaN|NaN|NaN|pneumonia|1|NaN
+Lower Hospitalization in Lakewood after Hepatitis B Vaccine becomes Mandatory|Lakewood|NaN|US|United States|NAm|CO|AMR|A|39.70471|-105.08137|us|5|7|13.8|hepatitis b|1|1
+Zika spreads to Kuching|Kuching|NaN|MY|Malaysia|AS|11|WPR|B|1.55|110.33333|not us|15|19|233.21|zika|1|NaN
+Spike of Rotavirus Cases in Omaha|Omaha|NaN|US|United States|NAm|NE|AMR|A|41.25626|-95.94043|us|NaN|NaN|NaN|rotavirus|1|0
+Tuberculosis re-emerges in Silver Springs|Springs|NaN|ZA|South Africa|AF|6|AFR|E|-26.25|28.4|not us|10|16|47.71|tuberculosis|0|NaN
+Will West Nile Virus vaccine help Coronado?|Coronado|NaN|US|United States|NAm|CA|AMR|A|32.68589|-117.18309|us|2|5|216.73|west nile|1|3
+Zika case confirmed in Lorain|Lorain|NaN|US|United States|NAm|OH|AMR|A|41.45282|-82.18237|us|3|4|225.81|zika|1|2
+Chickenpox Hits Simpsonville|Simpsonville|NaN|US|United States|NAm|SC|AMR|A|34.73706|-82.25428|us|0|1|491.28|chickenpox|1|3
+Framingham Residents Receive Measles vaccine|Framingham|NaN|US|United States|NAm|MA|AMR|A|42.27926|-71.41617|us|0|1|291.28|measles|1|1
+Rumors about Mad Cow Disease Brighton have been Refuted|Brighton|NaN|GB|United Kingdom|EU|ENG|EUR|A|50.82838|-0.13947|not us|0|1|193.47|mad cow|0|NaN
+Zika case reported in Jacobina|Jacobina|NaN|BR|Brazil|SA|5|AMR|B|-11.18143|-40.51372|not us|21|5|121.3|zika|1|NaN
+Bridgeport authorities confirmed the spread of West Nile Virus|Bridgeport|NaN|US|United States|NAm|CT|AMR|A|41.17923|-73.18945|us|0|1|172.61|west nile|1|1
+Measles Vaccine is now Required in Wailuku|Wailuku|NaN|US|United States|NAm|HI|AMR|A|20.89133|-156.50604|us|NaN|NaN|NaN|measles|1|0
+Zika symptoms spotted in Surat|Surat|NaN|IN|India|AS|9|SEAR|D|21.19594|72.83023|not us|22|12|112.88|zika|1|NaN
+More contaminated cattle reported in Bedford|Bedford|NaN|GB|United Kingdom|EU|ENG|EUR|A|52.13459|-0.46632|not us|0|1|251.73|NaN|0|NaN
+Zika in Tamarac!|Tamarac|NaN|US|United States|NAm|FL|AMR|A|26.21286|-80.24977|us|1|0|157.41|zika|1|3
+Will Measles vaccine help Milford?|Milford|NaN|US|United States|NAm|CT|AMR|A|41.22232|-73.0565|us|0|1|179.94|measles|1|1
+Spike of Norovirus Cases in Huddersfield|Huddersfield|NaN|GB|United Kingdom|EU|ENG|EUR|A|53.64904|-1.78416|not us|0|1|363.03|norovirus|0|NaN
+Rhinovirus Hits Bakersfield|Bakersfield|NaN|US|United States|NAm|CA|AMR|A|35.37329|-119.01871|us|2|5|6.19|rhinovirus|1|3
+Lower Hospitalization in Papeete after Measles Vaccine becomes Mandatory|Papeete|NaN|PF|French Polynesia|OC|1|NaN|NaN|-17.53733|-149.5665|not us|NaN|NaN|NaN|measles|1|NaN
+Zika arrives in Udon Thani|Udon Thani|NaN|TH|Thailand|AS|76|SEAR|B|17.41567|102.78589|not us|3|4|230.53|zika|1|NaN
+Spike of Dengue Cases in Stockholm|Stockholm|NaN|SE|Sweden|EU|26|EUR|A|59.33258|18.0649|not us|NaN|NaN|NaN|dengue|0|NaN
+More people in Berkeley are infected with Swine Flu every year|Berkeley|NaN|US|United States|NAm|CA|AMR|A|37.87159|-122.27275|us|2|5|244.85|swine flu|1|3
+Zika only the latest mosquito-borne threat to New Orleans|New Orleans|NaN|US|United States|NAm|LA|AMR|A|29.95465|-90.07507|us|1|0|499.17|zika|1|3
+Will Swine Flu vaccine help Annapolis?|Annapolis|NaN|US|United States|NAm|MD|AMR|A|38.97845|-76.49218|us|0|1|59.87|swine flu|1|3
+Lower Hospitalization in Monroe after Hepatitis D Vaccine becomes Mandatory|Monroe|NaN|US|United States|NAm|LA|AMR|A|32.50931|-92.1193|us|9|11|31.48|hepatitis d|1|3
+New medicine wipes out Dengue in Saginaw|Saginaw|NaN|US|United States|NAm|MI|AMR|A|43.41947|-83.95081|us|3|4|191.47|dengue|1|1
+Spike of Rhinovirus Cases in Sevierville|Sevierville|NaN|US|United States|NAm|TN|AMR|A|35.86815|-83.56184|us|0|1|497.89|rhinovirus|1|3
+Duisburg up in Arms over Mad Cow Disease|Duisburg|NaN|DE|Germany|EU|7|EUR|A|51.43247|6.76516|not us|0|1|171.12|mad cow|0|NaN
+New medicine wipes out Mumps in Saint Charles|Saint Charles|NaN|US|United States|NAm|MO|AMR|A|38.78394|-90.48123|us|3|4|275.96|mumps|1|2
+Case of Chikungunya Reported in Gaithersburg|Gaithersburg|NaN|US|United States|NAm|MD|AMR|A|39.14344|-77.20137|us|0|1|83.01|chikungunya|1|3
+How to Avoid Respiratory Syncytial Virus in San Bernardino|San Bernardino|NaN|US|United States|NAm|CA|AMR|A|34.10834|-117.28977|us|2|5|136.32|respiratory syncytial|1|3
+Laventille authorities confirmed the spread of Rhinovirus|Laventille|NaN|TT|Trinidad and Tobago|NAm|SJL|AMR|B|10.64917|-61.49889|not us|26|20|10.92|rhinovirus|1|NaN
+More Zika patients reported in Waco|Waco|NaN|US|United States|NAm|TX|AMR|A|31.54933|-97.14667|us|4|2|72.74|zika|1|3
+Will Herpes vaccine help Newcastle?|Newcastle|NaN|ZA|South Africa|AF|2|AFR|E|-27.75796|29.9318|not us|10|16|102.52|herpes|0|NaN
+Erie County sets Zika traps|Erie|NaN|US|United States|NAm|PA|AMR|A|42.12922|-80.08506|us|3|4|336.2|zika|1|1
+How to Avoid Norovirus in Greenville|Greenville|NaN|US|United States|NAm|NC|AMR|A|35.61266|-77.36635|us|0|1|292.17|norovirus|1|3
+More Zika patients reported in Calumpang|Calumpang|NaN|PH|Philippines|AS|NCR|WPR|B|14.6228|121.0897|not us|1|3|43.23|zika|1|NaN
+Zika symptoms spotted in Quisqueya|Quisqueya|NaN|DO|Dominican Republic|NAm|24|AMR|B|18.55542|-69.40814|not us|19|29|124.45|zika|1|NaN
+Rumors about Hepatitis D Spreading in Montreal have been Refuted|Montreal|NaN|CA|Canada|NAm|10|AMR|A|45.50884|-73.58781|not us|5|8|201.68|hepatitis d|0|NaN
+Zika symptoms spotted in Fortaleza|Fortaleza|NaN|BR|Brazil|SA|6|AMR|B|-3.71722|-38.54306|not us|NaN|NaN|NaN|zika|1|NaN
+Rumors about Bronchitis spreading in Bundaberg have been refuted|Bundaberg|NaN|AU|Australia|OC|4|WPR|A|-24.86621|152.3479|not us|14|15|35.3|bronchitis|0|NaN
+Hepatitis A re-emerges in Stamford|Stamford|NaN|US|United States|NAm|CT|AMR|A|41.05343|-73.53873|us|0|1|152.9|hepatitis a|1|1
+Schools in Huntington Closed Due to Rotavirus Outbreak|Huntington|NaN|US|United States|NAm|WV|AMR|A|38.41925|-82.44515|us|3|4|299.71|rotavirus|1|2
+Will Mad Cow Vaccine Help Bristol?|Bristol|NaN|GB|United Kingdom|EU|ENG|EUR|A|51.45523|-2.59665|not us|0|1|308.33|mad cow|0|NaN
+Chickenpox Comes to Stillwater|Stillwater|NaN|US|United States|NAm|OK|AMR|A|36.11561|-97.05837|us|8|9|125.1|chickenpox|1|3
+The Spread of Meningitis in Imperial has been Confirmed|Imperial|NaN|PE|Peru|SA|15|AMR|D|-13.05927|-76.35269|not us|NaN|NaN|NaN|meningitis|1|NaN
+Case of Measles Reported in Springdale|Springdale|NaN|US|United States|NAm|AR|AMR|A|36.18674|-94.12881|us|8|9|47.09|measles|1|3
+Norwalk Encounters Severe Symptoms of Malaria|Norwalk|NaN|US|United States|NAm|CA|AMR|A|33.90224|-118.08173|us|2|5|118.05|malaria|1|3
+Zika arrives in Orange City|Orange|NaN|US|United States|NAm|CA|AMR|A|33.78779|-117.85311|us|2|5|131.65|zika|1|3
+Pilsen Encounters Severe Symptoms of Malaria|Pilsen|NaN|CZ|Czechia|EU|87|NaN|NaN|49.74747|13.37759|not us|0|1|422.31|malaria|0|NaN
+Will Hepatitis B vaccine help La Paz?|La Paz|NaN|BO|Bolivia|SA|4|AMR|D|-16.5|-68.15|not us|NaN|NaN|NaN|hepatitis b|1|NaN
+Zika Outbreak in Puducherry|Puducherry|NaN|IN|India|AS|22|SEAR|D|11.93381|79.82979|not us|17|27|89.14|zika|1|NaN
+More Zika patients reported in Carrollton|Carrollton|NaN|US|United States|NAm|TX|AMR|A|32.95373|-96.89028|us|4|2|59.01|zika|1|3
+Will Rabies vaccine help Tangier?|Tangier|NaN|MA|Morocco|AF|1|EMR|D|35.76727|-5.79975|not us|4|23|243.57|rabies|0|NaN
+Zika symptoms spotted in Iquitos|Iquitos|NaN|PE|Peru|SA|16|AMR|D|-3.74912|-73.25383|not us|NaN|NaN|NaN|zika|1|NaN
+West Nile Virus Exposure in Racine|Racine|NaN|US|United States|NAm|WI|AMR|A|42.72613|-87.78285|us|3|4|110.65|west nile|1|0
+The Spread of Hepatitis E in Lansing has been Confirmed|Lansing|NaN|US|United States|NAm|MI|AMR|A|42.73253|-84.55553|us|3|4|136.7|hepatitis e|1|1
+West Nile Virus Exposure in Alpharetta|Alpharetta|NaN|US|United States|NAm|GA|AMR|A|34.07538|-84.29409|us|0|1|606.91|west nile|1|3
+Pedro Juan Caballero Encounters Severe Symptoms of Pneumonia|Pedro Juan Caballero|NaN|PY|Paraguay|SA|2|AMR|B|-22.54722|-55.73333|not us|NaN|NaN|NaN|pneumonia|1|NaN
+More Zika patients reported in Melbourne|Melbourne|NaN|AU|Australia|OC|7|WPR|A|-37.814|144.96332|not us|NaN|NaN|NaN|zika|0|NaN
+Zika Troubles come to La Libertad|La Libertad|NaN|EC|Ecuador|SA|10|AMR|D|-2.233|-80.91039|not us|20|30|74.3|zika|1|NaN
+Herpes Vaccine is now Required in Mattoon|Mattoon|NaN|US|United States|NAm|IL|AMR|A|39.48309|-88.37283|us|3|4|164.27|herpes|1|2
+Kent is infested with Rabies|Kent|NaN|US|United States|NAm|WA|AMR|A|47.38093|-122.23484|us|7|6|38.98|rabies|1|0
+Zika symptoms spotted in Bonita Springs|Bonita Springs|NaN|US|United States|NAm|FL|AMR|A|26.33981|-81.7787|us|1|0|92.83|zika|1|3
+The Spread of Malaria in Brazzaville has been Confirmed|Brazzaville|NaN|CG|Republic of the Congo|AF|12|NaN|NaN|-4.26613|15.28318|not us|NaN|NaN|NaN|malaria|0|NaN
+More Zika patients reported in Fort Myers|Fort Myers|NaN|US|United States|NAm|FL|AMR|A|26.62168|-81.84059|us|1|0|73.23|zika|1|3
+Zika spreads to Lewisville|Lewisville|NaN|US|United States|NAm|TX|AMR|A|33.04623|-96.99417|us|4|2|58.19|zika|1|3
+Ogden is infested with Gonorrhea|Ogden|NaN|US|United States|NAm|UT|AMR|A|41.223|-111.97383|us|11|8|35.83|gonorrhea|1|0
+Fort Hood Reports its First Zika Patient|Fort Hood|NaN|US|United States|NAm|TX|AMR|A|31.13489|-97.77561|us|4|2|92.75|zika|1|3
+Huzhou Residents Receive Hepatitis B vaccine|Huzhou|NaN|CN|China|AS|2|WPR|B|30.8703|120.0933|not us|31|31|27.54|hepatitis b|0|NaN
+New medicine wipes out Rabies in Newburgh|Newburgh|NaN|US|United States|NAm|NY|AMR|A|41.50343|-74.01042|us|0|1|158.11|rabies|1|1
+Iowa City Encounters Severe Symptoms of Rhinovirus|Iowa City|NaN|US|United States|NAm|IA|AMR|A|41.66113|-91.53017|us|3|4|258.19|rhinovirus|1|1
+Spike of Rabies Cases in Managua|Managua|NaN|NI|Nicaragua|NAm|10|AMR|D|12.13282|-86.2504|not us|2|7|157.15|rabies|1|NaN
+Outbreak of Zika in Santa Elena|Santa Elena|NaN|EC|Ecuador|SA|25|AMR|D|-2.22622|-80.85873|not us|20|30|71.59|zika|1|NaN
+Mumps Hits Howard Beach|Howard Beach|NaN|US|United States|NAm|NY|AMR|A|40.65788|-73.83625|us|0|1|124.31|mumps|1|1
+The Spread of Gonorrhea in Reno has been Confirmed|Reno|NaN|US|United States|NAm|NV|AMR|A|39.52963|-119.8138|us|2|5|289|gonorrhea|1|1
+How to Avoid Rhinovirus in Plainfield|Plainfield|NaN|US|United States|NAm|NJ|AMR|A|40.63371|-74.40737|us|0|1|99.53|rhinovirus|1|2
+Rumors about Varicella spreading in Carlsbad have been refuted|Carlsbad|NaN|US|United States|NAm|CA|AMR|A|33.15809|-117.35059|us|2|5|183.87|varicella|1|3
+Scranton authorities confirmed the spread of Gonorrhea|Scranton|NaN|US|United States|NAm|PA|AMR|A|41.40916|-75.6649|us|0|1|121.14|gonorrhea|1|1
+Mad Cow Disease Disastrous to Brussels|Brussels|NaN|BE|Belgium|EU|BRU|EUR|A|50.85045|4.34878|not us|0|1|78.8|mad cow|0|NaN
+Zika spreads to Olinda|Olinda|NaN|BR|Brazil|SA|30|AMR|B|-8.00889|-34.85528|not us|9|0|56|zika|1|NaN
+Hallandale Beach a Victim of Zika Outbreak|Hallandale Beach|NaN|US|United States|NAm|FL|AMR|A|25.9812|-80.14838|us|1|0|172.48|zika|1|3
+Rhinovirus re-emerges in Storrs|Storrs|NaN|US|United States|NAm|CT|AMR|A|41.80843|-72.24952|us|0|1|237.59|rhinovirus|1|1
+Germantown authorities confirmed the spread of Chickenpox|Germantown|NaN|US|United States|NAm|MD|AMR|A|39.17316|-77.27165|us|0|1|85.57|chickenpox|1|3
+Rumors about Rotavirus spreading in North Platte have been refuted|North Platte|NaN|US|United States|NAm|NE|AMR|A|41.12389|-100.76542|us|NaN|NaN|NaN|rotavirus|1|0
+Spike of Hepatitis C Cases in Golden|Golden|NaN|US|United States|NAm|CO|AMR|A|39.75554|-105.2211|us|5|7|12.71|hepatitis c|1|1
+Authorities are Worried about the Spread of Hepatitis D in Ganja|Ganja|NaN|AZ|Azerbaijan|AS|20|EUR|B|40.68278|46.36056|not us|18|28|4.09|hepatitis d|0|NaN
+Dengue Exposure in Kathmandu|Kathmandu|NaN|NP|Nepal|AS|CR|SEAR|D|27.70169|85.3206|not us|NaN|NaN|NaN|dengue|0|NaN
+Tuberculosis has Arrived in Fairfield|Fairfield|NaN|US|United States|NAm|CA|AMR|A|38.24936|-122.03997|us|2|5|255.25|tuberculosis|1|3
+Outbreak of Zika in Kozhikode|Kozhikode|NaN|IN|India|AS|13|SEAR|D|11.24802|75.7804|not us|17|27|191.48|zika|1|NaN
+Bronchitis Symptoms Spread all over Santa Fe|Santa Fe|NaN|AR|Argentina|SA|21|AMR|B|-31.64881|-60.70868|not us|24|17|195.18|bronchitis|1|NaN
+More Patients in Alexandria are Getting Diagnosed with Mumps|Alexandria|NaN|EG|Egypt|AF|6|EMR|D|31.20176|29.91582|not us|NaN|NaN|NaN|mumps|0|NaN
+Pneumonia Exposure in Alhambra|Alhambra|NaN|US|United States|NAm|AZ|AMR|A|33.49838|-112.13432|us|12|12|39.08|pneumonia|1|2
+Hepatitis C re-emerges in Damascus|Damascus|NaN|SY|Syria|AS|13|EMR|B|33.5102|36.29128|not us|NaN|NaN|NaN|hepatitis c|0|NaN
+Lower Hospitalization in Pekanbaru after Rotavirus Vaccine becomes Mandatory|Pekanbaru|NaN|ID|Indonesia|AS|37|SEAR|B|0.51667|101.44167|not us|8|6|116.25|rotavirus|1|NaN
+Schools in Bentonville Closed Due to Hepatitis B Outbreak|Bentonville|NaN|US|United States|NAm|AR|AMR|A|36.37285|-94.20882|us|8|9|37.95|hepatitis b|1|3
+Hepatitis E Hits Hammond|Hammond|NaN|US|United States|NAm|IN|AMR|A|41.58337|-87.50004|us|3|4|50.78|hepatitis e|1|2
+Schools in Bridgeton Closed Due to Mumps Outbreak|Bridgeton|NaN|US|United States|NAm|NJ|AMR|A|39.42734|-75.23408|us|0|1|33.82|mumps|1|2
+Biloxi Residents Recieve Chlamydia vaccine|Biloxi|NaN|US|United States|NAm|MS|AMR|A|30.39603|-88.88531|us|1|0|443.27|chlamydia|1|3
+Case of Mad Cow Disease Reported in Hilden|Hilden|NaN|DE|Germany|EU|7|EUR|A|51.16818|6.93093|not us|0|1|165.34|mad cow|0|NaN
+Rumors about Rabies Spreading in Khartoum have been Refuted|Khartoum|NaN|SD|Sudan|AF|29|EMR|D|15.55177|32.53241|not us|NaN|NaN|NaN|rabies|0|NaN
+Harare is infested with Pneumonia|Harare|NaN|ZW|Zimbabwe|AF|10|AFR|E|-17.82772|31.05337|not us|NaN|NaN|NaN|pneumonia|0|NaN
+Zika symptoms spotted in Sibu|Sibu|NaN|MY|Malaysia|AS|11|WPR|B|2.3|111.81667|not us|15|19|121.63|zika|1|NaN
+Zika arrives in Quezon|Quezon|NaN|PH|Philippines|AS|10|WPR|B|7.73028|125.09889|not us|27|21|66.63|zika|1|NaN
+More Patients in Crawfordsville are Getting Diagnosed with Rabies|Crawfordsville|NaN|US|United States|NAm|IN|AMR|A|40.04115|-86.87445|us|3|4|96.3|rabies|1|2
+Spike of Hepatitis B Cases in Greenville|Greenville|NaN|US|United States|NAm|NC|AMR|A|35.61266|-77.36635|us|0|1|292.17|hepatitis b|1|3
+Authorities are Worried about the Spread of Hepatitis D in Akron|Akron|NaN|US|United States|NAm|OH|AMR|A|41.08144|-81.51901|us|3|4|261.86|hepatitis d|1|2
+More Zika patients reported in Nuevo Laredo|Nuevo Laredo|NaN|MX|Mexico|NAm|28|AMR|B|27.47629|-99.51639|not us|16|24|25.23|zika|1|NaN
+Bronchitis Keeps Spreading in San Mateo|San Mateo|NaN|PH|Philippines|AS|40|WPR|B|14.6982|121.1236|not us|1|3|47.66|bronchitis|1|NaN
+Zika arrives in Boca Raton|Boca Raton|NaN|US|United States|NAm|FL|AMR|A|26.35869|-80.0831|us|1|0|159.9|zika|1|3
+Bradenton Experiences Zika Troubles|Bradenton|NaN|US|United States|NAm|FL|AMR|A|27.49893|-82.57482|us|1|0|20.25|zika|1|3
+Chlamydia Symptoms Spread all over University City|University City|NaN|US|United States|NAm|MO|AMR|A|38.65588|-90.30928|us|3|4|275.36|chlamydia|1|2
+Wisconsin Rapids Patient in Critical Condition after Contracting Chickenpox|Wisconsin Rapids|NaN|US|United States|NAm|WI|AMR|A|44.38358|-89.81735|us|3|4|263.5|chickenpox|1|0
+Zika spreads to Kissimmee|Kissimmee|NaN|US|United States|NAm|FL|AMR|A|28.30468|-81.41667|us|1|0|70.68|zika|1|3
+Herpes Symptoms Spread all over Fremont|Fremont|NaN|US|United States|NAm|CA|AMR|A|37.54827|-121.98857|us|2|5|218.27|herpes|1|3
+Spike of Pneumonia Cases in The Bronx|The Bronx|NaN|US|United States|NAm|NY|AMR|A|40.84985|-73.86641|us|0|1|130.78|pneumonia|1|1
+Authorities are Worried about the Spread of Hepatitis D in North Bay|North Bay|NaN|CA|Canada|NAm|8|AMR|A|46.3168|-79.46633|not us|5|8|153.68|hepatitis d|0|NaN
+The Spread of Herpes in Baku has been Confirmed|Baku|NaN|AZ|Azerbaijan|AS|9|EUR|B|40.37767|49.89201|not us|18|28|184.82|herpes|0|NaN
+Will Measles vaccine help Sochi?|Sochi|NaN|RU|Russia|EU|38|NaN|NaN|43.59917|39.72569|not us|NaN|NaN|NaN|measles|0|NaN
+Tuberculosis Symptoms Spread all over Caguas|Caguas|NaN|PR|Puerto Rico|NAm|25|NaN|NaN|18.23412|-66.0485|not us|19|29|97.63|tuberculosis|1|NaN
+HIV has Arrived in Tacoma|Tacoma|NaN|US|United States|NAm|WA|AMR|A|47.25288|-122.44429|us|7|6|45.65|hiv|1|0
+Malaria re-emerges in Nashua|Nashua|NaN|US|United States|NAm|NH|AMR|A|42.76537|-71.46757|us|0|1|310.67|malaria|1|0
+Arvada is infested with Syphilis|Arvada|NaN|US|United States|NAm|CO|AMR|A|39.80276|-105.08748|us|5|7|7.04|syphilis|1|1
+Spike of Syphilis Cases in West Monroe|Monroe|NaN|US|United States|NAm|LA|AMR|A|32.50931|-92.1193|us|9|11|31.48|syphilis|1|3
+More Zika patients reported in Ribeirao Preto|Ribeirao Preto|NaN|BR|Brazil|SA|27|AMR|B|-21.1775|-47.81028|not us|6|2|148.73|zika|1|NaN
+Deerfield tests new cure for Measles|Deerfield|NaN|US|United States|NAm|IL|AMR|A|42.17114|-87.84451|us|3|4|84.94|measles|1|2
+Contaminated Meat Brings Trouble for Bonn Farmers|Bonn|NaN|DE|Germany|EU|7|EUR|A|50.73438|7.09549|not us|0|1|156.54|NaN|0|NaN
+Hepatitis A re-emerges in Foster City|Foster City|NaN|US|United States|NAm|CA|AMR|A|37.55855|-122.27108|us|2|5|230.38|hepatitis a|1|3
+How to Avoid Tuberculosis in Santa Monica|Santa Monica|NaN|US|United States|NAm|CA|AMR|A|34.01945|-118.49119|us|2|5|100.62|tuberculosis|1|3
+Zika reported in Fort Pierce|Fort Pierce|NaN|US|United States|NAm|FL|AMR|A|27.44671|-80.32561|us|1|0|119.54|zika|1|3
+Authorities are Worried about the Spread of Syphilis in Pyongyang|Pyongyang|NaN|KP|North Korea|AS|12|SEAR|D|39.03385|125.75432|not us|NaN|NaN|NaN|syphilis|0|NaN
+Zika spreads to Winter Park|Winter Park|NaN|US|United States|NAm|FL|AMR|A|28.6|-81.33924|us|1|0|88.7|zika|1|3
+Durango is infested with Hepatitis B|Durango|NaN|ES|Spain|EU|59|EUR|A|43.17124|-2.6338|not us|4|23|295.8|hepatitis b|0|NaN
+Hepatitis A has not Left Staten Island|Staten Island|NaN|US|United States|NAm|NY|AMR|A|40.56233|-74.13986|us|0|1|107.43|hepatitis a|1|1
+Mpika authorities confirmed the spread of Chikungunya|Mpika|NaN|ZM|Zambia|AF|10|AFR|E|-11.83431|31.45287|not us|NaN|NaN|NaN|chikungunya|0|NaN
+Gladstone Encounters Severe Symptoms of Dengue|Gladstone|NaN|AU|Australia|OC|4|WPR|A|-23.84852|151.25775|not us|14|15|79.23|dengue|0|NaN
+Mad Cow Disease Hits London|London|NaN|GB|United Kingdom|EU|ENG|EUR|A|51.50853|-0.12574|not us|0|1|214.44|mad cow|0|NaN
+New Milford Patient in Critical Condition after Contracting Respiratory Syncytial Virus|New Milford|NaN|US|United States|NAm|NJ|AMR|A|40.9351|-74.01903|us|0|1|128.56|respiratory syncytial|1|2
+More people in Palo Alto are infected with HIV every year|Palo Alto|NaN|US|United States|NAm|CA|AMR|A|37.44188|-122.14302|us|2|5|219.84|hiv|1|3
+HIV Symptoms Spread all over Hinthada|Hinthada|NaN|MM|Myanmar|AS|3|SEAR|D|17.64944|95.45705|not us|3|4|520.14|hiv|1|NaN
+Zika symptoms spotted in Quito|Quito|NaN|EC|Ecuador|SA|18|AMR|D|-0.22985|-78.52495|not us|20|30|141.78|zika|1|NaN
+Vineland authorities confirmed the spread of Chlamydia|Vineland|NaN|US|United States|NAm|NJ|AMR|A|39.48623|-75.02573|us|0|1|42.61|chlamydia|1|2
+"Sulu, Zamboanga brace for Zika"|Zamboanga|NaN|PH|Philippines|AS|9|WPR|B|6.91028|122.07389|not us|27|21|151.61|zika|1|NaN
+More Zika patients reported in Custodia|Custodia|NaN|BR|Brazil|SA|30|AMR|B|-8.0875|-37.64306|not us|9|0|153.39|zika|1|NaN
+Tupelo Residents Recieve Syphilis vaccine|Tupelo|NaN|US|United States|NAm|MS|AMR|A|34.25807|-88.70464|us|10|10|44.94|syphilis|1|3
+Spanish Flu Outbreak in Lisbon|Lisbon|NaN|PT|Portugal|EU|14|EUR|A|38.71667|-9.13333|not us|4|23|236.91|spanish flu|0|NaN
+Spanish Flu Spreading through Madrid|Madrid|NaN|ES|Spain|EU|29|EUR|A|40.4165|-3.70256|not us|4|23|101.23|spanish flu|0|NaN
+Barcelona Struck by Spanish Flu|Barcelona|NaN|ES|Spain|EU|56|EUR|A|41.38879|2.15899|not us|0|1|583.05|spanish flu|0|NaN
+Spanish Flu Outbreak in Lisbon|Lisbon|NaN|PT|Portugal|EU|14|EUR|A|38.71667|-9.13333|not us|4|23|236.91|spanish flu|0|NaN
+Spanish Flu Spreading through Madrid|Madrid|NaN|ES|Spain|EU|29|EUR|A|40.4165|-3.70256|not us|4|23|101.23|spanish flu|0|NaN
+Barcelona Struck by Spanish Flu|Barcelona|NaN|ES|Spain|EU|56|EUR|A|41.38879|2.15899|not us|0|1|583.05|spanish flu|0|NaN
+The Spread of Dengue in Yakima has been Confirmed|Yakima|NaN|US|United States|NAm|WA|AMR|A|46.60207|-120.5059|us|7|6|59.1|dengue|1|0
+Tuberculosis Hits Luanda|Luanda|NaN|AO|Angola|AF|20|AFR|D|-8.83682|13.23432|not us|NaN|NaN|NaN|tuberculosis|1|NaN
+Will West Nile Virus vaccine help Dumai?|Dumai|NaN|ID|Indonesia|AS|37|SEAR|B|1.66711|101.44316|not us|8|6|56.48|west nile|1|NaN
+Rumors about Chlamydia spreading in Redmond have been refuted|Redmond|NaN|US|United States|NAm|WA|AMR|A|47.67399|-122.12151|us|7|6|47.65|chlamydia|1|0
+Case of Varicella Reported in Concord|Concord|NaN|US|United States|NAm|CA|AMR|A|37.97798|-122.03107|us|2|5|240.86|varicella|1|3
+Zika virus case reported in Rockland|Rockland|NaN|US|United States|NAm|MA|AMR|A|42.13066|-70.91616|us|0|1|306.51|zika|1|1
+Zika investigators coming to Mankato|Mankato|NaN|US|United States|NAm|MN|AMR|A|44.15906|-94.00915|us|3|4|422.87|zika|1|0
+Toms River Encounters Severe Symptoms of Respiratory Syncytial Virus|Toms River|NaN|US|United States|NAm|NJ|AMR|A|39.95373|-74.19792|us|0|1|87.14|respiratory syncytial|1|2
+The Spread of Malaria in Zanzibar has been Confirmed|Zanzibar|NaN|TZ|Tanzania|AF|25|AFR|E|-6.16394|39.19793|not us|NaN|NaN|NaN|malaria|0|NaN
+Malaria Outbreak Hits Zanzibar's Tourist Industry|Zanzibar|NaN|TZ|Tanzania|AF|25|AFR|E|-6.16394|39.19793|not us|NaN|NaN|NaN|malaria|0|NaN
+Tourist Perishes from Malaria in Arusha|Arusha|NaN|TZ|Tanzania|AF|26|AFR|E|-3.36667|36.68333|not us|11|10|237.98|malaria|0|NaN
+Herpes Symptoms Spread all over New Kingston|New Kingston|NaN|JM|Jamaica|NAm|8|AMR|B|18.00747|-76.78319|not us|NaN|NaN|NaN|herpes|1|NaN
+More people in Yokohama are infected with Norovirus every year|Yokohama|NaN|JP|Japan|AS|19|WPR|A|35.43333|139.65|not us|25|18|61.34|norovirus|0|NaN
+More people in Kitwe are infected with Respiratory Syncytial Virus every year|Kitwe|NaN|ZM|Zambia|AF|8|AFR|E|-12.80243|28.21323|not us|NaN|NaN|NaN|respiratory syncytial|0|NaN
+Hepatitis D Keeps Spreading in Bismarck|Bismarck|NaN|US|United States|NAm|ND|AMR|A|46.80833|-100.78374|us|NaN|NaN|NaN|hepatitis d|1|0
+Varicella Outbreak in Minot|Minot|NaN|US|United States|NAm|ND|AMR|A|48.23251|-101.29627|us|NaN|NaN|NaN|varicella|1|0
+Malaria has Arrived in Terrebonne|Terrebonne|NaN|CA|Canada|NAm|10|AMR|A|45.70004|-73.64732|not us|5|8|203.33|malaria|0|NaN
+Chikungunya Keeps Spreading in North Vancouver|North Vancouver|NaN|CA|Canada|NAm|2|AMR|A|49.31636|-123.06934|not us|NaN|NaN|NaN|chikungunya|0|NaN
+Authorities are Worried about the Spread of Chickenpox in Hemet|Hemet|NaN|US|United States|NAm|CA|AMR|A|33.74761|-116.97307|us|2|5|166.46|chickenpox|1|3
+Rumors about Hepatitis C spreading in Darien have been refuted|Darien|NaN|US|United States|NAm|IL|AMR|A|41.75198|-87.97395|us|3|4|77.43|hepatitis c|1|2
+The Spread of West Nile Virus in Fairfield has been Confirmed|Fairfield|NaN|US|United States|NAm|CA|AMR|A|38.24936|-122.03997|us|2|5|255.25|west nile|1|3
+Princeton Encounters Severe Symptoms of Dengue|Princeton|NaN|US|United States|NAm|NJ|AMR|A|40.34872|-74.65905|us|0|1|76.73|dengue|1|2
+Norovirus Keeps Spreading in Copenhagen|Copenhagen|NaN|DK|Denmark|EU|17|EUR|A|55.67594|12.56553|not us|0|1|545.93|norovirus|0|NaN
+Wuhan is infested with Varicella|Wuhan|NaN|CN|China|AS|12|WPR|B|30.58333|114.26667|not us|NaN|NaN|NaN|varicella|0|NaN
+Zika spreads to San Luis Potosi|San Luis Potosi|NaN|MX|Mexico|NAm|24|AMR|B|22.14982|-100.97916|not us|13|14|256.44|zika|1|NaN
+Spike of Norovirus Cases in Canberra|Canberra|NaN|AU|Australia|OC|1|WPR|A|-35.28346|149.12807|not us|NaN|NaN|NaN|norovirus|0|NaN
+Zika Troubles come to Greater Noida|Greater Noida|NaN|IN|India|AS|36|SEAR|D|28.49615|77.53601|not us|23|13|14.19|zika|1|NaN
+Lower Hospitalization in Palm Springs after Hepatitis A Vaccine becomes Mandatory|Palm Springs|NaN|US|United States|NAm|CA|AMR|A|33.8303|-116.54529|us|2|5|181.62|hepatitis a|1|3
+Outbreak of Zika in Leesburg|Leesburg|NaN|US|United States|NAm|VA|AMR|A|39.11566|-77.5636|us|0|1|101.52|zika|1|3
+Authorities are Worried about the Spread of Tuberculosis in Cantu|Cantu|NaN|IT|Italy|EU|9|EUR|A|45.74096|9.13084|not us|0|1|367.63|tuberculosis|0|NaN
+New medicine wipes out HIV in Kihei|Kihei|NaN|US|United States|NAm|HI|AMR|A|20.76462|-156.44578|us|NaN|NaN|NaN|hiv|1|0
+Sangre Grande Residents Recieve Gonorrhea vaccine|Sangre Grande|NaN|TT|Trinidad and Tobago|NAm|SGE|AMR|B|10.58705|-61.13008|not us|26|20|14.5|gonorrhea|1|NaN
+Outbreak of Zika in Colombo|Colombo|NaN|LK|Sri Lanka|AS|36|SEAR|B|6.93548|79.84868|not us|NaN|NaN|NaN|zika|0|NaN
+Will Rotavirus vaccine help Addis Ababa?|Addis Ababa|NaN|ET|Ethiopia|AF|44|AFR|E|9.02497|38.74689|not us|NaN|NaN|NaN|rotavirus|1|NaN
+Stony Brook University experts discuss Zika virus|University|NaN|US|United States|NAm|FL|AMR|A|28.07389|-82.43902|us|1|0|33.58|zika|1|3
+Lower Hospitalization in Janesville after Varicella Vaccine becomes Mandatory|Janesville|NaN|US|United States|NAm|WI|AMR|A|42.68279|-89.01872|us|3|4|154.18|varicella|1|0
+Rabies Outbreak in Altus|Altus|NaN|US|United States|NAm|OK|AMR|A|34.63813|-99.33398|us|4|2|175.28|rabies|1|3
+Miami resident suggests Zika precautions|Miami|NaN|US|United States|NAm|FL|AMR|A|25.77427|-80.19366|us|1|0|180.21|zika|1|3
+Zika Troubles come to Jaen|Jaen|NaN|ES|Spain|EU|51|EUR|A|37.76922|-3.79028|not us|4|23|111.8|zika|0|NaN
+Hepatitis B Exposure in Edinburgh|Edinburgh|NaN|GB|United Kingdom|EU|SCT|EUR|A|55.95206|-3.19648|not us|0|1|520.36|hepatitis b|0|NaN
+Zika case reported in Reynosa|Reynosa|NaN|MX|Mexico|NAm|28|AMR|B|26.08061|-98.28835|not us|16|24|121.8|zika|1|NaN
+Schools in Tulare Closed Due to Mumps Outbreak|Tulare|NaN|US|United States|NAm|CA|AMR|A|36.20773|-119.34734|us|2|5|58.49|mumps|1|3
+More Zika patients reported in Chennai|Chennai|NaN|IN|India|AS|25|SEAR|D|13.08784|80.27847|not us|17|27|141.54|zika|1|NaN
+Hepatitis D Keeps Spreading in Danvers|Danvers|NaN|US|United States|NAm|MA|AMR|A|42.57509|-70.93005|us|0|1|323.35|hepatitis d|1|1
+Authorities a Miami|Miami|NaN|US|United States|NAm|FL|AMR|A|25.77427|-80.19366|us|1|0|180.21|NaN|1|3
+Zika case reported in Medellin|Medellin|NaN|CO|Colombia|SA|2|AMR|B|6.25184|-75.56359|not us|7|9|103.13|zika|1|NaN
+Spike of Tuberculosis Cases in Albuquerque|Albuquerque|NaN|US|United States|NAm|NM|AMR|A|35.08449|-106.65114|us|NaN|NaN|NaN|tuberculosis|1|2
+More people in Cranford are infected with Hepatitis A every year|Cranford|NaN|US|United States|NAm|NJ|AMR|A|40.65844|-74.29959|us|0|1|104.89|hepatitis a|1|2
+West Nile Virus Hits Monroe|Monroe|NaN|US|United States|NAm|LA|AMR|A|32.50931|-92.1193|us|9|11|31.48|west nile|1|3
+Pneumonia Outbreak in Springville|Springville|NaN|US|United States|NAm|UT|AMR|A|40.16523|-111.61075|us|11|8|39.69|pneumonia|1|0
+Zika arrives in San Onofre|San Onofre|NaN|CO|Colombia|SA|27|AMR|B|9.73586|-75.52626|not us|7|9|166.46|zika|1|NaN
+Lung Cancer Rates Increasing in Moscow|Moscow|NaN|RU|Russia|EU|48|NaN|NaN|55.75222|37.61556|not us|NaN|NaN|NaN|lung cancer|0|NaN
+Rumors about Rotavirus Spreading in Joliet have been Refuted|Joliet|NaN|US|United States|NAm|IL|AMR|A|41.52519|-88.0834|us|3|4|79.98|rotavirus|1|2
+More Zika patients reported in Chanthaburi|Chanthaburi|NaN|TH|Thailand|AS|48|SEAR|B|12.60961|102.10447|not us|3|4|104.49|zika|1|NaN
+Lawrenceville is infested with Dengue|Lawrenceville|NaN|US|United States|NAm|GA|AMR|A|33.95621|-83.98796|us|0|1|599.6|dengue|1|3
+Zika Reported in Ciudad Acuna|Ciudad Acuna|NaN|MX|Mexico|NAm|7|AMR|B|29.32322|-100.95217|not us|16|24|161.62|zika|1|NaN
+Zika case reported in Limoeiro|Limoeiro|NaN|BR|Brazil|SA|30|AMR|B|-7.87472|-35.45028|not us|9|0|26.72|zika|1|NaN
+Ibadan tests new cure for Malaria|Ibadan|NaN|NG|Nigeria|AF|32|AFR|D|7.37756|3.90591|not us|28|22|24.25|malaria|1|NaN
+Gonorrhea has Arrived in Avon Lake|Avon Lake|NaN|US|United States|NAm|OH|AMR|A|41.50532|-82.0282|us|3|4|233.76|gonorrhea|1|2
+Pneumonia has not Left Kinshasa|Kinshasa|NaN|CD|Democratic Republic of the Congo|AF|6|NaN|NaN|-4.32758|15.31357|not us|NaN|NaN|NaN|pneumonia|0|NaN
+Respiratory Syncytial Virus Hits Henderson|Henderson|NaN|US|United States|NAm|NV|AMR|A|36.0397|-114.98194|us|13|13|18.07|respiratory syncytial|1|1
+More Zika patients reported in Lakeland|Lakeland|NaN|US|United States|NAm|FL|AMR|A|28.03947|-81.9498|us|1|0|35.42|zika|1|3
+Malaria Vaccine is now Required in Winona|Winona|NaN|US|United States|NAm|MN|AMR|A|44.04996|-91.63932|us|3|4|315.98|malaria|1|0
+More Patients in Canton are Getting Diagnosed with Norovirus|Canton|NaN|US|United States|NAm|MI|AMR|A|42.30865|-83.48216|us|3|4|169.17|norovirus|1|1
+Ronkonkoma is infested with Chickenpox|Ronkonkoma|NaN|US|United States|NAm|NY|AMR|A|40.81538|-73.11233|us|0|1|162.42|chickenpox|1|1
+Kedougou tests new cure for Hepatitis C|Kedougou|NaN|SN|Senegal|AF|17|AFR|D|12.55561|-12.18076|not us|NaN|NaN|NaN|hepatitis c|1|NaN
+Gonorrhea Exposure in Norwalk|Norwalk|NaN|US|United States|NAm|CA|AMR|A|33.90224|-118.08173|us|2|5|118.05|gonorrhea|1|3
+How to Avoid Rhinovirus in Medford|Medford|NaN|US|United States|NAm|OR|AMR|A|42.32652|-122.87559|us|NaN|NaN|NaN|rhinovirus|1|1
+Hepatitis D Symptoms Spread all over Evansville|Evansville|NaN|US|United States|NAm|IN|AMR|A|37.97476|-87.55585|us|3|4|243.41|hepatitis d|1|2
+New medicine wipes out Herpes in Bossier City|Bossier City|NaN|US|United States|NAm|LA|AMR|A|32.51599|-93.73212|us|9|11|62.43|herpes|1|3
+Pneumonia Exposure in San Jose|San Jose|NaN|CR|Costa Rica|NAm|8|AMR|B|9.93333|-84.08333|not us|2|7|368.14|pneumonia|1|NaN
+Authorities are Worried about the Spread of Mad Cow Disease in Edinburgh|Edinburgh|NaN|GB|United Kingdom|EU|SCT|EUR|A|55.95206|-3.19648|not us|0|1|520.36|mad cow|0|NaN
+Duluth Patient in Critical Condition after Contracting Rotavirus|Duluth|NaN|US|United States|NAm|MN|AMR|A|46.78327|-92.10658|us|NaN|NaN|NaN|rotavirus|1|0
+Norfolk tests new cure for Herpes|Norfolk|NaN|US|United States|NAm|VA|AMR|A|36.84681|-76.28522|us|0|1|195.87|herpes|1|3
+More Zika patients reported in Botucatu|Botucatu|NaN|BR|Brazil|SA|27|AMR|B|-22.88583|-48.445|not us|6|2|156.37|zika|1|NaN
+Manassas Encounters Severe Symptoms of Measles|Manassas|NaN|US|United States|NAm|VA|AMR|A|38.75095|-77.47527|us|0|1|109.54|measles|1|3
+Fayetteville authorities confirmed the spread of HIV|Fayetteville|NaN|US|United States|NAm|NC|AMR|A|35.05266|-78.87836|us|0|1|360.11|hiv|1|3
+Varicella Exposure in Cambridge|Cambridge|NaN|GB|United Kingdom|EU|ENG|EUR|A|52.2|0.11667|not us|0|1|236.31|varicella|0|NaN
+Hepatitis A Vaccine is now Required in Fukushima|Fukushima|NaN|JP|Japan|AS|8|WPR|A|37.75|140.46667|not us|25|18|104.9|hepatitis a|0|NaN
+Zika Outbreak in South Miami|Miami|NaN|US|United States|NAm|FL|AMR|A|25.77427|-80.19366|us|1|0|180.21|zika|1|3
+Hepatitis D Symptoms Spread all over North Bethesda|North Bethesda|NaN|US|United States|NAm|MD|AMR|A|39.04455|-77.11887|us|0|1|82.38|hepatitis d|1|3
+Panama Cityâ€™s first Zika related death|Panama|Panama|PA|Panama|NAm|8|AMR|B|8.9936|-79.51973|not us|30|26|5.28|zika|1|NaN
+West Nile Virus has Arrived in Dongguan|Dongguan|NaN|CN|China|AS|30|WPR|B|23.01797|113.74866|not us|12|11|19.62|west nile|0|NaN
+Zika arrives in Belmopan|Belmopan|NaN|BZ|Belize|NAm|2|AMR|B|17.25|-88.76667|not us|2|7|242.54|zika|1|NaN
+Zika seminars in Yuma County|Yuma|NaN|US|United States|NAm|AZ|AMR|A|32.72532|-114.6244|us|NaN|NaN|NaN|zika|1|2
+Rumors about Hepatitis E Spreading in Morristown have been Refuted|Morristown|NaN|US|United States|NAm|TN|AMR|A|36.21398|-83.29489|us|0|1|472.34|hepatitis e|1|3
+Mumps Outbreak in Joplin|Joplin|NaN|US|United States|NAm|MO|AMR|A|37.08423|-94.51328|us|8|9|43.49|mumps|1|2
+Authorities are Worried about the Spread of Mumps in Corona|Corona|NaN|US|United States|NAm|CA|AMR|A|33.87529|-117.56644|us|2|5|136.6|mumps|1|3
+Schools in Danville Closed Due to Tuberculosis Outbreak|Danville|NaN|US|United States|NAm|CA|AMR|A|37.82159|-121.99996|us|2|5|231.86|tuberculosis|1|3
+Marquette tests new cure for Hepatitis A|Marquette|NaN|US|United States|NAm|MI|AMR|A|46.54354|-87.39542|us|NaN|NaN|NaN|hepatitis a|1|1
+Norovirus Vaccine is now Required in Anaheim|Anaheim|NaN|US|United States|NAm|CA|AMR|A|33.83529|-117.9145|us|2|5|126.98|norovirus|1|3
+Zika Outbreak in Manaus|Manaus|NaN|BR|Brazil|SA|4|AMR|B|-3.10194|-60.025|not us|NaN|NaN|NaN|zika|1|NaN
+Zika spreads to Caucasia|Caucasia|NaN|CO|Colombia|SA|2|AMR|B|7.98654|-75.19349|not us|7|9|49.44|zika|1|NaN
+Case of Malaria Reported in Aurora|Aurora|NaN|US|United States|NAm|CO|AMR|A|39.72943|-104.83192|us|5|7|17.88|malaria|1|1
+Manchester Residents Recieve Influenza vaccine|Manchester|NaN|GB|United Kingdom|EU|ENG|EUR|A|53.48095|-2.23743|not us|0|1|368.42|influenza|0|NaN
+Zika spreads to Kamphaeng Phet|Kamphaeng Phet|NaN|TH|Thailand|AS|11|SEAR|B|16.48344|99.52153|not us|3|4|250.95|zika|1|NaN
+Rotavirus Vaccine is now Required in Labasa|Labasa|NaN|FJ|Fiji|OC|3|WPR|B|-16.4332|179.36451|not us|29|25|94.95|rotavirus|1|NaN
+The Spread of Hepatitis E in Fargo has been Confirmed|Fargo|NaN|US|United States|NAm|ND|AMR|A|46.87719|-96.7898|us|NaN|NaN|NaN|hepatitis e|1|0
+Zika Outbreak in Mexicali|Mexicali|NaN|MX|Mexico|NAm|2|AMR|B|32.62781|-115.45446|not us|NaN|NaN|NaN|zika|1|NaN
+West Nile Virus Keeps Spreading in Hauppauge|Hauppauge|NaN|US|United States|NAm|NY|AMR|A|40.82565|-73.20261|us|0|1|158.65|west nile|1|1
+Bronchitis Keeps Spreading in Hayward|Hayward|NaN|US|United States|NAm|CA|AMR|A|37.66882|-122.0808|us|2|5|227.62|bronchitis|1|3
+Zika spreads to Plant City|Plant City|NaN|US|United States|NAm|FL|AMR|A|28.01888|-82.11469|us|1|0|29.68|zika|1|3
+Chlamydia Exposure in Sanaa|Sanaa|NaN|YE|Yemen|AS|16|EMR|D|15.35472|44.20667|not us|NaN|NaN|NaN|chlamydia|0|NaN
+Zika Reported in North Miami Beach|North Miami Beach|NaN|US|United States|NAm|FL|AMR|A|25.93315|-80.16255|us|1|0|174.03|zika|1|3
+More Patients in Kensington are Getting Diagnosed with Varicella|Kensington|NaN|US|United States|NAm|NY|AMR|A|40.64621|-73.97069|us|0|1|118.02|varicella|1|1
+Case of West Nile Virus Reported in Riverside|Riverside|NaN|US|United States|NAm|CA|AMR|A|33.95335|-117.39616|us|2|5|139.18|west nile|1|3
+Northfield Encounters Severe Symptoms of Herpes|Northfield|NaN|US|United States|NAm|MN|AMR|A|44.4583|-93.1616|us|3|4|394.88|herpes|1|0
+The Spread of Respiratory Syncytial Virus in Monroe has been Confirmed|Monroe|NaN|US|United States|NAm|LA|AMR|A|32.50931|-92.1193|us|9|11|31.48|respiratory syncytial|1|3
+How to Avoid Hepatitis B in Trenton|Trenton|NaN|US|United States|NAm|NJ|AMR|A|40.21705|-74.74294|us|0|1|67.78|hepatitis b|1|2
+Zika Reported in Ilopango|Ilopango|NaN|SV|El Salvador|NAm|10|AMR|B|13.70167|-89.10944|not us|2|7|91.76|zika|1|NaN
+Barstow Patient in Critical Condition after Contracting Herpes|Barstow|NaN|US|United States|NAm|CA|AMR|A|34.89859|-117.02282|us|2|5|123.43|herpes|1|3
+Hepatitis D Exposure in Aswan|Aswan|NaN|EG|Egypt|AF|16|EMR|D|24.09082|32.89942|not us|NaN|NaN|NaN|hepatitis d|0|NaN
+Will Gonorrhea vaccine help East Moline?|East Moline|NaN|US|United States|NAm|IL|AMR|A|41.50087|-90.4443|us|3|4|201.87|gonorrhea|1|2
+New medicine wipes out Influenza in Redlands|Redlands|NaN|US|United States|NAm|CA|AMR|A|34.05557|-117.18254|us|2|5|143.35|influenza|1|3
+How to Avoid Contaminated Meat when Visiting Basel|Basel|NaN|CH|Switzerland|EU|BS|EUR|A|47.55839|7.57327|not us|0|1|225.29|NaN|0|NaN
+More Zika patients reported in Kampong Speu|Kampong Speu|NaN|KH|Cambodia|AS|4|WPR|B|11.45332|104.52085|not us|3|4|233.32|zika|1|NaN
+Alameda Residents Recieve Rabies vaccine|Alameda|NaN|US|United States|NAm|CA|AMR|A|37.76521|-122.24164|us|2|5|238.59|rabies|1|3
+Mad Cow Disease Detected in Lyon|Lyon|NaN|FR|France|EU|84|EUR|A|45.74846|4.84671|not us|0|1|279.36|mad cow|0|NaN
+Memphis Encounters Severe Symptoms of Swine Flu|Memphis|NaN|US|United States|NAm|TN|AMR|A|35.14953|-90.04898|us|10|10|108.81|swine flu|1|3
+Zika Troubles come to Delray Beach|Delray Beach|NaN|US|United States|NAm|FL|AMR|A|26.46146|-80.07282|us|1|0|156.67|zika|1|3
+How to Avoid Chikungunya in Hampton|Hampton|NaN|US|United States|NAm|VA|AMR|A|37.02987|-76.34522|us|0|1|183.85|chikungunya|1|3
+Zika Reported in Sao Jose|Sao Jose|NaN|BR|Brazil|SA|26|AMR|B|-28.21171|-49.1632|not us|NaN|NaN|NaN|zika|1|NaN
+Case of Norovirus Reported in Stratford|Stratford|NaN|US|United States|NAm|CT|AMR|A|41.18454|-73.13317|us|0|1|175.18|norovirus|1|1
+How to Avoid Hepatitis E in South Bend|South Bend|NaN|US|United States|NAm|IN|AMR|A|41.68338|-86.25001|us|3|4|24.07|hepatitis e|1|2
+Hepatitis C Outbreak in Bethlehem|Bethlehem|NaN|ZA|South Africa|AF|3|AFR|E|-28.23078|28.30707|not us|10|16|91.08|hepatitis c|0|NaN
+Davenport is infested with Dengue|Davenport|NaN|US|United States|NAm|IA|AMR|A|41.52364|-90.57764|us|3|4|208.78|dengue|1|1
+Rumors about Swine Flu spreading in Suzhou have been refuted|Suzhou|NaN|CN|China|AS|4|WPR|B|31.30408|120.59538|not us|31|31|59.29|swine flu|0|NaN
+Malaria Vaccine is now Required in Elyria|Elyria|NaN|US|United States|NAm|OH|AMR|A|41.36838|-82.10765|us|3|4|229.83|malaria|1|2
+Case of Swine Flu Reported in Tbilisi|Tbilisi|NaN|GE|Georgia|AS|51|EUR|B|41.69411|44.83368|not us|18|28|104.94|swine flu|0|NaN
+Influenza Keeps Spreading in Suffolk|Suffolk|NaN|US|United States|NAm|VA|AMR|A|36.72836|-76.58496|us|0|1|206.73|influenza|1|3
+More people in Allentown are infected with Chlamydia every year|Allentown|NaN|US|United States|NAm|PA|AMR|A|40.60843|-75.49018|us|0|1|67.61|chlamydia|1|1
+Mad Cow Disease re-emerges in Bedford|Bedford|NaN|GB|United Kingdom|EU|ENG|EUR|A|52.13459|-0.46632|not us|0|1|251.73|mad cow|0|NaN
+Authorities are Worried about the Spread of Hepatitis B in Yiwu|Yiwu|NaN|CN|China|AS|2|WPR|B|29.31506|120.07676|not us|31|31|82.27|hepatitis b|0|NaN
+Zika Outbreak in Yurimaguas|Yurimaguas|NaN|PE|Peru|SA|16|AMR|D|-5.90181|-76.12234|not us|NaN|NaN|NaN|zika|1|NaN
+Dengue Outbreak in Easton|Easton|NaN|US|United States|NAm|PA|AMR|A|40.68843|-75.22073|us|0|1|77.36|dengue|1|1
+Varicella has Arrived in Milton|Milton|NaN|CA|Canada|NAm|8|AMR|A|43.51681|-79.88294|not us|5|8|138.69|varicella|0|NaN
+New medicine wipes out Meningitis in Sevilla|Sevilla|NaN|ES|Spain|EU|51|EUR|A|37.38283|-5.97317|not us|4|23|141.42|meningitis|0|NaN
+Authorities are Worried about the Spread of Varicella in Clovis|Clovis|NaN|US|United States|NAm|CA|AMR|A|36.82523|-119.70292|us|2|5|104.85|varicella|1|3
+More Zika patients reported in Fort Worth|Fort Worth|NaN|US|United States|NAm|TX|AMR|A|32.72541|-97.32085|us|4|2|29.49|zika|1|3
+Zika symptoms spotted in Boynton Beach|Boynton Beach|NaN|US|United States|NAm|FL|AMR|A|26.52535|-80.06643|us|1|0|154.8|zika|1|3
+Outbreak of Zika in Portoviejo|Portoviejo|NaN|EC|Ecuador|SA|14|AMR|D|-1.05458|-80.45445|not us|20|30|32.15|zika|1|NaN
+Influenza Exposure in Muscat|Muscat|NaN|OM|Oman|AS|6|EMR|B|23.58413|58.40778|not us|NaN|NaN|NaN|influenza|0|NaN
+Rumors about Rabies spreading in Jerusalem have been refuted|Jerusalem|NaN|IL|Israel|AS|6|EUR|A|31.76904|35.21633|not us|NaN|NaN|NaN|rabies|0|NaN
+More Zika patients reported in Indang|Indang|NaN|PH|Philippines|AS|40|WPR|B|14.19528|120.87694|not us|1|3|29.6|zika|1|NaN
+Suva authorities confirmed the spread of Rotavirus|Suva|NaN|FJ|Fiji|OC|1|WPR|B|-18.14161|178.44149|not us|29|25|47.16|rotavirus|1|NaN
+More Zika patients reported in Bella Vista|Bella Vista|NaN|DO|Dominican Republic|NAm|34|AMR|B|18.45539|-69.9454|not us|19|29|158.49|zika|1|NaN
+Zika Outbreak in Wichita Falls|Wichita Falls|NaN|US|United States|NAm|TX|AMR|A|33.91371|-98.49339|us|4|2|108.42|zika|1|3
