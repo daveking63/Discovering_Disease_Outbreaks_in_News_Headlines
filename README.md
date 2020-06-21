@@ -30,3 +30,6 @@ finished assignment (see): Discovering_Disease_Outbreaks_in_the_News_Part_4.ipyn
 
 Diagnosing_Disease_ Outbreaks_in_the_News_Part_5.pdf
 
+A. Data Files
+
+Two augmented files derived from Part 4: df_headlines_augmented_Part4.txt and  excel version df_headlines_augmented_Part4.xlsx
